@@ -1,6 +1,6 @@
 # eslite
 
-### Main  Latout
+### Main  Layout
 
 ```
 (1) BOX  1280px
