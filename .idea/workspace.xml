@@ -23,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_pace.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/sass/_pace.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="22" selection-start="750" selection-end="750" vertical-scroll-proportion="-5.9591837" vertical-offset="338" max-vertical-offset="1425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_/components/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,30 +41,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_scaffolding.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_/components/sass/bootstrap/_scaffolding.scss">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="390" selection-end="390" vertical-scroll-proportion="0.46242774" vertical-offset="0" max-vertical-offset="2505">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pace.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/js/pace.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12345" selection-start="12363" selection-end="12363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+            <state line="41" column="10" selection-start="1598" selection-end="1598" vertical-scroll-proportion="-23.208334" vertical-offset="58" max-vertical-offset="795">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="0" selection-start="3678" selection-end="3678" vertical-scroll-proportion="-18.291666" vertical-offset="686" max-vertical-offset="1230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_/components/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="45" selection-end="45" vertical-scroll-proportion="-0.6122449" vertical-offset="0" max-vertical-offset="345">
+            <state line="10" column="4" selection-start="130" selection-end="130" vertical-scroll-proportion="0.29469547" vertical-offset="0" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/sass/_footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="283" selection-end="462" vertical-scroll-proportion="-5.5102043" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -89,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_/components/sass/_footer.scss" />
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/gruntfile.js" />
         <option value="$PROJECT_DIR$/_/components/js/sudoSlider.js" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -98,20 +105,22 @@
         <option value="$PROJECT_DIR$/_/components/js/slidingmenu.js" />
         <option value="$PROJECT_DIR$/_/components/sass/_font.scss" />
         <option value="$PROJECT_DIR$/_/components/sass/_nav.scss" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/_/components/sass/_slidingmenu.scss" />
         <option value="$PROJECT_DIR$/_/components/js/pace.js" />
-        <option value="$PROJECT_DIR$/_/components/sass/style.scss" />
         <option value="$PROJECT_DIR$/_/components/sass/_pace.scss" />
         <option value="$PROJECT_DIR$/_/components/js/script.js" />
         <option value="$PROJECT_DIR$/_/components/sass/_reset.scss" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/_/components/sass/_footer.scss" />
+        <option value="$PROJECT_DIR$/_/components/sass/style.scss" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1426" />
-    <option name="y" value="62" />
+    <option name="x" value="-1691" />
+    <option name="y" value="-30" />
     <option name="width" value="1083" />
     <option name="height" value="729" />
   </component>
@@ -228,32 +237,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eslite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eslite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -324,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1426" y="62" width="1083" height="729" extended-state="0" />
+    <frame x="-1691" y="-30" width="1083" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -332,7 +315,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28929606" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28929606" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -359,32 +342,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="82" selection-end="93" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/js/slidingmenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="-5.1836734" vertical-offset="46" max-vertical-offset="555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="2297" selection-end="2297" vertical-scroll-proportion="-8.75" vertical-offset="225" max-vertical-offset="1830">
           <folding />
         </state>
       </provider>
@@ -410,13 +370,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_font.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="21" selection-start="3730" selection-end="3730" vertical-scroll-proportion="-6.836735" vertical-offset="895" max-vertical-offset="1440">
@@ -431,25 +384,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/js/pace.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12345" selection-start="12363" selection-end="12363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="45" selection-end="45" vertical-scroll-proportion="-0.6122449" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_pace.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="22" selection-start="750" selection-end="750" vertical-scroll-proportion="-5.9591837" vertical-offset="338" max-vertical-offset="1425">
+        <state line="42" column="22" selection-start="750" selection-end="750" vertical-scroll-proportion="0.5488722" vertical-offset="338" max-vertical-offset="1425">
           <folding />
         </state>
       </provider>
@@ -461,6 +398,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/bootstrap/_scaffolding.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="390" selection-end="390" vertical-scroll-proportion="0.46242774" vertical-offset="0" max-vertical-offset="2505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/js/pace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12345" selection-start="12363" selection-end="12363" vertical-scroll-proportion="0.02640845" vertical-offset="0" max-vertical-offset="568">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_reset.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="1125">
@@ -468,9 +421,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/bootstrap/_scaffolding.scss">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="390" selection-end="390" vertical-scroll-proportion="0.46242774" vertical-offset="0" max-vertical-offset="2505">
+        <state line="75" column="0" selection-start="3678" selection-end="3678" vertical-scroll-proportion="-18.291666" vertical-offset="686" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="10" selection-start="1598" selection-end="1598" vertical-scroll-proportion="-23.208334" vertical-offset="58" max-vertical-offset="795">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="283" selection-end="462" vertical-scroll-proportion="-5.5102043" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="130" selection-end="130" vertical-scroll-proportion="0.29469547" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>

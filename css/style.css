@@ -371,11 +371,13 @@ nav a {
   -o-transition: all .1s ease-in-out;
   transition: all .1s ease-in-out; }
 
-section.footer-bottom {
-  padding: 40px; }
-
 footer {
-  background: #2f3133; }
+  background: #2f3133;
+  -webkit-transition: 0s;
+  -moz-transition: 0s;
+  -ms-transition: 0s;
+  -o-transition: 0s;
+  transition: 0s; }
   footer .footer-social {
     list-style: none;
     padding: 0;
@@ -396,5 +398,14 @@ footer {
 body {
   overflow-x: hidden;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+  body #page {
+    opacity: 0;
+    -webkit-transition: all .4s linear;
+    -moz-transition: all .4s linear;
+    -ms-transition: all .4s linear;
+    -o-transition: all .4s linear;
+    transition: all .4s linear; }
+  body.pace-done #page {
+    opacity: 1; }
 
 /*# sourceMappingURL=style.css.map */

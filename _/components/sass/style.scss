@@ -12,6 +12,19 @@ body{
   overflow-x: hidden;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 
+
+  #page{
+    opacity: 0;
+    -webkit-transition: all .4s linear;
+    -moz-transition: all .4s linear;
+    -ms-transition: all .4s linear;
+    -o-transition: all .4s linear;
+    transition: all .4s linear;
+  }
+
+  &.pace-done #page{
+    opacity: 1;
+  }
 }
 
 
