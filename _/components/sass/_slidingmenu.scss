@@ -64,10 +64,13 @@
   -ms-transition: all .4s ease-in-out;
   -o-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
+  text-transform: uppercase;
 }
 
 .menu a:hover {
+  text-decoration: none;
   color: #ffffff;
+  background: #cb5237;
   -webkit-transition: all .4s ease-in-out;
   -moz-transition: all .4s ease-in-out;
   -ms-transition: all .4s ease-in-out;

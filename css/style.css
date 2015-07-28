@@ -1,10 +1,8 @@
-@charset "UTF-8";
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dd, dl, dt, li, ol, ul, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   border: 0 none;
   margin: 0;
   padding: 0;
-  color: #686868;
-  font-family: "微軟正黑體",Helvetica Neue,Arial; }
+  color: #686868; }
 
 table {
   border-collapse: collapse;
@@ -57,6 +55,146 @@ a:hover, a:focus, a:active {
   zoom: 1;
   /*IE6, IE7*/ }
 
+nav a {
+  position: relative;
+  display: inline-block;
+  margin: 15px 25px;
+  outline: none;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 200;
+  font-size: 1em; }
+
+.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-perspective: 12rem;
+  -moz-perspective: 12rem;
+  -ms-perspective: 12rem;
+  -o-perspective: 12rem;
+  perspective: 12rem;
+  z-index: 2000;
+  position: fixed;
+  height: 6rem;
+  width: 6rem;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; }
+
+.pace.pace-inactive .pace-progress {
+  display: none; }
+
+.pace .pace-progress {
+  position: fixed;
+  z-index: 2000;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 6rem;
+  width: 6rem !important;
+  line-height: 6rem;
+  font-size: 2rem;
+  border-radius: 50%;
+  background: #cb5237;
+  color: #fff;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 100;
+  text-align: center;
+  -webkit-animation: pace-theme-center-circle-spin linear infinite 2s;
+  -moz-animation: pace-theme-center-circle-spin linear infinite 2s;
+  -ms-animation: pace-theme-center-circle-spin linear infinite 2s;
+  -o-animation: pace-theme-center-circle-spin linear infinite 2s;
+  animation: pace-theme-center-circle-spin linear infinite 2s;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d; }
+
+.pace .pace-progress:after {
+  content: attr(data-progress-text);
+  display: block; }
+
+@-webkit-keyframes pace-theme-center-circle-spin {
+  from {
+    -webkit-transform: rotateY(0deg); }
+  to {
+    -webkit-transform: rotateY(360deg); } }
+@-moz-keyframes pace-theme-center-circle-spin {
+  from {
+    -moz-transform: rotateY(0deg); }
+  to {
+    -moz-transform: rotateY(360deg); } }
+@-ms-keyframes pace-theme-center-circle-spin {
+  from {
+    -ms-transform: rotateY(0deg); }
+  to {
+    -ms-transform: rotateY(360deg); } }
+@-o-keyframes pace-theme-center-circle-spin {
+  from {
+    -o-transform: rotateY(0deg); }
+  to {
+    -o-transform: rotateY(360deg); } }
+@keyframes pace-theme-center-circle-spin {
+  from {
+    transform: rotateY(0deg); }
+  to {
+    transform: rotateY(360deg); } }
+/*FONTS.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Author: Designova.*/
+/* Website: http://www.designova.net */
+/* Copyright: (C) 2013 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* CUSTOM FONTS ARE DEFINED HERE VIA CSS3 FONT-FACE TECHNOLOGY*/
+/* More info : http://www.littleboxofideas.com/blog/tutorials/how-do-i-implement-font-face */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------*/
+/* Font: Open Sans Family */
+/* Source: Google Web Fonts Library */
+/* License Type: GPL */
+/*--------------------------------------------------------*/
+@font-face {
+  font-family: "OpenSansRegular";
+  src: url("../fonts/OpenSans/OpenSans-Regular-webfont.eot");
+  src: url("../fonts/OpenSans/OpenSans-Regular-webfont.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Regular-webfont.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-Regular-webfont.svg#webfont") format("svg"); }
+@font-face {
+  font-family: "OpenSansItalic";
+  src: url("../fonts/OpenSans/OpenSans-Italic-webfont.eot");
+  src: url("../fonts/OpenSans/OpenSans-Italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Italic-webfont.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Italic-webfont.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-Italic-webfont.svg#webfont") format("svg"); }
+@font-face {
+  font-family: "OpenSansBold";
+  src: url("../fonts/OpenSans/OpenSans-Bold-webfont.eot");
+  src: url("../fonts/OpenSans/OpenSans-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Bold-webfont.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Bold-webfont.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-Bold-webfont.svg#webfont") format("svg"); }
+@font-face {
+  font-family: "OpenSansLight";
+  src: url("../fonts/OpenSans/OpenSans-Light-webfont.eot");
+  src: url("../fonts/OpenSans/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Light-webfont.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Light-webfont.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-Light-webfont.svg#webfont") format("svg"); }
+@font-face {
+  font-family: "OpenSansLightItalic";
+  src: url("../fonts/OpenSans/OpenSans-LightItalic-webfont.eot");
+  src: url("../fonts/OpenSans/OpenSans-LightItalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-LightItalic-webfont.woff") format("woff"), url("../fonts/OpenSans/OpenSans-LightItalic-webfont.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-LightItalic-webfont.svg#webfont") format("svg"); }
+/*--------------------------------------------------------*/
+/* Font: Nexa Free Family */
+/* Source: Fontfabric */
+/* License Type: GPL */
+/*--------------------------------------------------------*/
+@font-face {
+  font-family: "NexaBold";
+  src: url("../fonts/Nexa/nexa_bold-webfont.eot");
+  src: url("../fonts/Nexa/nexa_bold-webfont.woff") format("woff"), url("../fonts/Nexa/nexa_bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Nexa/nexa_bold-webfont.ttf") format("truetype"), url("../fonts/Nexa/nexa_bold-webfont.svg#webfont") format("svg"); }
+@font-face {
+  font-family: "NexaLight";
+  src: url("../fonts/Nexa/nexa_light-webfont.eot");
+  src: url("../fonts/Nexa/nexa_light-webfont.woff") format("woff"), url("../fonts/Nexa/nexa_light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Nexa/nexa_light-webfont.ttf") format("truetype"), url("../fonts/Nexa/nexa_light-webfont.svg#webfont") format("svg"); }
 /* --------------------------------
 
       header
@@ -143,10 +281,13 @@ a:hover, a:focus, a:active {
   -moz-transition: all .4s ease-in-out;
   -ms-transition: all .4s ease-in-out;
   -o-transition: all .4s ease-in-out;
-  transition: all .4s ease-in-out; }
+  transition: all .4s ease-in-out;
+  text-transform: uppercase; }
 
 .menu a:hover {
+  text-decoration: none;
   color: #ffffff;
+  background: #cb5237;
   -webkit-transition: all .4s ease-in-out;
   -moz-transition: all .4s ease-in-out;
   -ms-transition: all .4s ease-in-out;
@@ -253,6 +394,7 @@ footer {
     margin-top: 20px; }
 
 body {
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
 
 /*# sourceMappingURL=style.css.map */

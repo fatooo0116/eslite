@@ -1,12 +1,16 @@
 @import "reset";
+@import "nav";
+@import "pace";
+@import "font";
 @import "header";
 @import "slidingmenu";
 @import "footer";
 
 
+
 body{
   overflow-x: hidden;
-
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 
 }
 

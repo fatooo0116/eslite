@@ -28,7 +28,6 @@
 <div id="page" class="hfeed site">
 
 
-
     <nav class="menu" id="sm">
         <div class="sm-wrap">
             <h1 class="sm-logo">誠品行旅</h1>
