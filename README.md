@@ -19,4 +19,8 @@
 * Executive_Suite 
 * Humanities_Suit
 
-### 4.Restaurant (In Between / The Chapter / The Lounge / The Penthouse)
+### 4.Restaurant
+* In Between
+* The Chapter
+* The Lounge
+* The Penthouse
