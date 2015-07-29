@@ -12,6 +12,7 @@
 
 ## Layout TPL:
 ### 1.Home
+* weather API
 ### 2. About Home Bottom Tab
 ### 3.Room 
 * Classic_Room 
