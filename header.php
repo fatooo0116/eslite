@@ -52,18 +52,13 @@
 
     <!-- masthead : starts -->
     <header id="masthead" class="clearfix trans-header">
-        <h1 class="logo">
-            誠品行旅            </h1>
+        <h1 class="logo"><img src="images/logo.jpg" class="pull-right">誠品行旅</h1>
     </header>
     <!-- masthead : ends -->
 
 
 
 
-
-<div  style="width:100%;height:1024px;">
-    xxccxx
-</div>
 
 
 

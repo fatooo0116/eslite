@@ -212,7 +212,8 @@ nav a {
   -ms-transition: all .4s ease-in-out;
   -o-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
-  background-color: rgba(0, 0, 0, 0.5); }
+  background-color: #fff;
+  box-shadow: 0 1px 3px #999; }
   #masthead .logo {
     float: right;
     color: #fff;
@@ -221,7 +222,8 @@ nav a {
     font-weight: 800;
     letter-spacing: 0.15em;
     line-height: 30px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin: 10px 0 5px; }
 
 /*SLIDINGMENU.CSS*/
 /*-------------------------------------------------------------------------------------------------------------------------------*/
@@ -371,13 +373,26 @@ nav a {
   -o-transition: all .1s ease-in-out;
   transition: all .1s ease-in-out; }
 
+#room {
+  padding-top: 90px; }
+
+.footer {
+  background: #303133;
+  padding: 40px 0;
+  color: #d8e4e9; }
+
 footer {
-  background: #2f3133;
+  background: #28292b;
   -webkit-transition: 0s;
   -moz-transition: 0s;
   -ms-transition: 0s;
   -o-transition: 0s;
   transition: 0s; }
+  footer.mastfoot {
+    padding: 40px; }
+  footer h3 {
+    padding: 0;
+    margin: 0; }
   footer .footer-social {
     list-style: none;
     padding: 0;

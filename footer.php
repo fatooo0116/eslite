@@ -1,6 +1,14 @@
 
 
 <!-- page-section : starts -->
+<div class="footer">
+    <div class=" container">
+    <section class="row">
+        <div class="col-md-6">11072 台北市信義區菸廠路98號<br/>02-6626.2888</div>
+        <div class="col-md-6">繁體中文｜簡體中文｜ENGLISH | 日本語</div>
+    </div>
+</div>
+
 <footer id="mastfoot" class="mastfoot">
     <div class="clearfix" style="background: #2f3133">
     </div>
@@ -40,6 +48,7 @@
 <!-- page-section : ends -->
 
 </section>
+</div><!-- [end] footer -->
 <script src="http://localhost:35729/livereload.js"></script>
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
