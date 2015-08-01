@@ -28,7 +28,7 @@
 
 
 ### 5.RWD Refine
-
+* home top img use randomly delay fadein wow.js
 
 
 ## Js Tools
