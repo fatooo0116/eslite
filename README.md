@@ -35,6 +35,7 @@
 * wow.js. Animate.css
 * isotope.js
 * Revolution.js
+* lightbox2
 
 ## Create Your Own font icon
 * http://www.lynda.com/Glyphs-App-tutorials/Downloading-testing-custom-icon-fonts/157228/166471-4.html
