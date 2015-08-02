@@ -38,5 +38,11 @@
 * lightbox2
 
 ## Create Your Own font icon
+```
 * http://www.lynda.com/Glyphs-App-tutorials/Downloading-testing-custom-icon-fonts/157228/166471-4.html
+
+DEMO版型：http://designova.net/themes/wordpress/dignity/
+我們用的首頁是
+Home 04 / Teal Green Accent / Split Layout with BG Image Slider(alider to right)
+```
 
