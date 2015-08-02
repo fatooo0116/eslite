@@ -4,8 +4,20 @@
 <div class="footer">
     <div class=" container">
     <section class="row">
-        <div class="col-md-6">11072 台北市信義區菸廠路98號<br/>02-6626.2888</div>
-        <div class="col-md-6">繁體中文｜簡體中文｜ENGLISH | 日本語</div>
+        <div class="col-md-6">
+            <div class="address">11072 台北市信義區菸廠路98號</div>
+            <div class="tel">02-6626.2888</div>
+        </div>
+        <div class="col-md-6">
+            <div  class="weather pull-right "><i class="fa fa-cloud"></i> 2015/04/05   28°C / 82°F</div>
+            <div class="clear"></div>
+            <ul class="clear pull-right  lang">
+                <li><a href="#">繁體中文</a></li>
+                <li><a href="#">簡體中文</a></li>
+                <li><a href="#">ENGLISH</a></li>
+                <li><a href="#">日本語</a></li>
+            </ul>
+        </div>
     </div>
 </div>
 
@@ -21,7 +33,7 @@
 
             <div class="row">
                 <article class="col-md-6 text-left">
-                    <h3>@twitter</h3>
+                    <h3><a href="#"><img src="images/footer_logo.png"></a></h3>
                     <article id="ticker" class="tweets-ticker query"></article>
                 </article>
                 <article class="col-md-6 text-right">
@@ -33,7 +45,7 @@
 
                     </ul>
                     <div class="credits">
-                        <p> <br>© 2015 All rights reserved.</p>
+                        © 2015 All rights reserved.
                     </div>
                 </article>
             </div>
@@ -50,8 +62,11 @@
 </section>
 </div><!-- [end] footer -->
 <script src="http://localhost:35729/livereload.js"></script>
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="js/owl-carousel/owl.carousel.min.js"></script>
+<script src="js/lightbox2-master/dist/js/lightbox.min.js"></script>
+
 <script src="js/script.js"></script>
 </body>
 </html>

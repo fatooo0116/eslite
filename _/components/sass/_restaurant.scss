@@ -1,0 +1,109 @@
+#restaurant{
+  padding-top:100px;
+
+
+
+
+  .title_sep{
+    background: #cb5237;
+    margin:20px auto 30px;
+    height:12px;
+    width:80px;
+  }
+
+
+
+  /*
+  *   room_equip
+  */
+  .room_equip{
+    margin-bottom:50px;
+
+    .item{
+      padding:10px;
+      font-size: 13px;
+      color:#828182;
+      i{
+        margin-right:10px;
+      }
+    }
+  }
+
+
+
+
+  /*
+   * feature_img
+   */
+  .feature_img{
+    padding-top:10px;
+      img{
+        display: block;
+        margin: 0 auto 30px;
+      }
+      .desc{
+        line-height: 2em;
+        letter-spacing: 1px;
+        font-size: 16px;
+      }
+  }
+
+  /*
+   *   room_fun
+   */
+  .room_fun{
+    margin-bottom:50px;
+    .item_outter{
+      display:inline-block;
+      margin-bottom:20px;
+
+      h3{
+        font-size:14px;
+        color:#a39a93;
+        margin-top:15px;
+      }
+
+      a.item{
+
+        display: block;
+        border: 5px solid #a39a93;
+        height: 80px;
+        width: 80px;
+        border-radius: 100%;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        margin: 0 auto;
+        box-shadow: 0 1px 1px #444;
+
+
+        -webkit-transition: all .1s linear;
+        -moz-transition: all .1s linear;
+        -ms-transition: all .1s linear;
+        -o-transition: all .1s linear;
+        transition: all .1s linear;
+
+
+        i{
+          color:#a39a93;
+          font-size:40px;
+          -webkit-transition: all .1s linear;
+          -moz-transition: all .1s linear;
+          -ms-transition: all .1s linear;
+          -o-transition: all .1s linear;
+          transition: all .1s linear;
+          text-shadow: 0 1px 1px #333;
+        }
+      }
+      a.item:hover{
+        height: 83px;
+        width: 83px;
+        i{
+          font-size:43px;
+        }
+      }
+    }
+  }
+
+
+}

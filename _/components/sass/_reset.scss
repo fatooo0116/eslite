@@ -2,7 +2,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   border: 0 none;
   margin: 0;
   padding: 0;
-  color:#686868;
+  color:#27292b;
 
 
 }
@@ -36,6 +36,7 @@ a:active {
 a:focus {
   -moz-outline-style: none;
   outline: none;
+  text-decoration: none;
 }
 a {
   outline: 0;
@@ -44,10 +45,12 @@ a {
   -o-transition-duration: .3s;
   -webkit-transition-duration: .3s;
   transition-duration: .3s;
+  text-decoration: none;
 }
-a:hover,a:focus,a:active{
+a:hover,
+a:focus,
+a:active{
   text-decoration:none;
-
 }
 
 
@@ -64,6 +67,8 @@ a:hover,a:focus,a:active{
 }
 
 
+.clearfix{clear:both}
 
+.tc{text-align: center;}
 
 

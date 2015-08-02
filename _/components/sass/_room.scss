@@ -1,6 +1,150 @@
 #room{
+  padding-top:90px;
 
-  padding-top:90px
 
 
+
+  /*
+  *   room_equip
+  */
+  .room_equip{
+    margin-bottom:50px;
+
+      .item{
+        padding:10px;
+        font-size: 13px;
+        color:#828182;
+          i{
+            margin-right:10px;
+          }
+      }
+  }
+
+
+
+  /*
+  *   room_tab
+  */
+  .room_tab{
+    margin-bottom:70px;
+
+      .tabs-left > .nav-tabs > li,
+      .tabs-right > .nav-tabs > li {
+        float: none;
+      }
+
+      .tabs-left > .nav-tabs > li > a,
+      .tabs-right > .nav-tabs > li > a {
+        min-width: 74px;
+        margin-right: 0;
+        margin-bottom: 3px;
+      }
+
+      .tabs-left > .nav-tabs {
+        float: left;
+        margin-right: 19px;
+        border-right: 1px solid #ddd;
+      }
+
+      .tabs-left > .nav-tabs > li > a {
+        margin-right: -1px;
+        -webkit-border-radius: 4px 0 0 4px;
+        -moz-border-radius: 4px 0 0 4px;
+        border-radius: 4px 0 0 4px;
+      }
+
+      .tabs-left > .nav-tabs > li > a:hover,
+      .tabs-left > .nav-tabs > li > a:focus {
+        border-color: #eeeeee #dddddd #eeeeee #eeeeee;
+      }
+
+      .tabs-left > .nav-tabs .active > a,
+      .tabs-left > .nav-tabs .active > a:hover,
+      .tabs-left > .nav-tabs .active > a:focus {
+        border-color: #ddd transparent #ddd #ddd;
+        *border-right-color: #ffffff;
+      }
+  }
+
+
+  /*
+  *   room_fun
+  */
+  .room_fun{
+    margin-bottom:50px;
+    .item_outter{
+      display:inline-block;
+      margin-bottom:20px;
+
+        h3{
+          font-size:14px;
+          color:#a39a93;
+          margin-top:15px;
+        }
+
+        a.item{
+
+          display: block;
+          border: 5px solid #a39a93;
+          height: 80px;
+          width: 80px;
+          border-radius: 100%;
+          display: table-cell;
+          vertical-align: middle;
+          text-align: center;
+          margin: 0 auto;
+          box-shadow: 0 1px 1px #444;
+
+
+          -webkit-transition: all .1s linear;
+          -moz-transition: all .1s linear;
+          -ms-transition: all .1s linear;
+          -o-transition: all .1s linear;
+          transition: all .1s linear;
+
+
+          i{
+            color:#a39a93;
+            font-size:40px;
+            -webkit-transition: all .1s linear;
+            -moz-transition: all .1s linear;
+            -ms-transition: all .1s linear;
+            -o-transition: all .1s linear;
+            transition: all .1s linear;
+            text-shadow: 0 1px 1px #333;
+          }
+        }
+        a.item:hover{
+          height: 83px;
+          width: 83px;
+          i{
+            font-size:43px;
+          }
+        }
+    }
+  }
+
+
+
+  /*
+  *   room_related
+  */
+  .room_related{
+    margin-bottom:70px;
+    .wdr_owl_carousel{
+      a,img{display:block;}
+      h3{font-size: 18px;margin-bottom:4px;}
+      a.more{
+        opacity: 0.6;
+        padding:5px 0;
+        font-size: 15px;
+      }
+      img{width:auto;}
+      a.more:hover{
+        opacity: 0.9;
+        text-decoration: none;
+      }
+    }
+
+  }
 }

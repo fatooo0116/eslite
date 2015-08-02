@@ -1,0 +1,84 @@
+/*
+*   es_title
+*/
+.es_title{
+  padding-top:50px;
+  h2{
+    margin:0;
+    font-size:36px;
+  }
+  .desc{
+    font-size:20px;
+    line-height: 2em;
+    letter-spacing:1px;
+  }
+  .title_sep{
+    background: #cb5237;
+    margin:20px auto 30px;
+    height:12px;
+    width:80px;
+  }
+}
+
+
+.es_btn{
+  padding:13px 25px;
+  background: #5f5c12;
+  color:#fff;
+  width: 140px;
+  margin:10px auto;
+  display: block;
+  letter-spacing: 2px;
+  font-size: 13px;
+  text-align: center;
+}
+
+
+.es_btn:hover{
+  background:#4a3929 ;
+  color:#fff;
+}
+
+.es_btn:active{
+  box-shadow:0 0 15px #111 inset;
+}
+
+
+
+.info-desc{
+  max-width: 840px;
+  margin:50px auto 50px;
+  ul{
+    li{
+      font-size:19px;
+      border-top:1px solid #a3a3a3;
+      padding:40px 0;
+      letter-spacing: 1px;
+    }
+  }
+}
+
+.wdr_contact{
+
+}
+
+
+
+
+
+/*
+*   dep_dotted
+*/
+
+.dep_dotted{
+  background: url(../images/sep_dot.gif) no-repeat center bottom;
+  height: 45px;
+  margin-bottom: 20px;
+}
+.dep_dotted_g{
+  background: url(../images/sep_dot_g.jpg) no-repeat center bottom;
+  height: 45px;
+  margin-bottom: 20px;
+}
+
+

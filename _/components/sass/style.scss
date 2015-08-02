@@ -5,14 +5,16 @@
 @import "header";
 @import "slidingmenu";
 @import "room";
-
+@import "restaurant";
 @import "footer";
-
+@import "wdr_tool";
+@import "home_onepage";
 
 
 body{
   overflow-x: hidden;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  // font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "微軟正黑體",Helvetica Neue,Helvetica,Arial;
 
 
   #page{

@@ -16,12 +16,19 @@
 
 
 
-
+    <!--
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://127.0.0.1/wp_eslite/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://127.0.0.1/wp_eslite/wp-includes/wlwmanifest.xml" />
+    -->
 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/animate.css"/>
     <link rel="stylesheet" href="css/bootstrap.css"/>
+    <link rel="stylesheet" href="js/owl-carousel/owl.carousel.css"/>
+    <link rel="stylesheet" href="js/lightbox2-master/dist/css/lightbox.css"/>
+
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 </head>
 
 <body class="home blog">

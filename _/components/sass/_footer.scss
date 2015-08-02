@@ -2,8 +2,45 @@
 .footer{
   background:#303133;
   padding:40px 0;
-  color:#d8e4e9;
+
+  & div{
+    color:#d8e4e9;
+    letter-spacing: 1px;
+  }
+  .tel{
+    font-size:18px;
+    color:#fff;
+  }
+  .address{
+    font-size:14px;
+    margin-bottom:10px;
+  }
+  .weather{
+    font-size:14px;
+    margin-bottom:10px;
+  }
+
+  ul.lang{
+    display:block;
+    li{
+      float:left;
+      a{
+        color:#d8e4e9;
+        font-size:18px;
+      }
+    }
+
+    li:before{
+      content: " | ";
+      padding: 0 5px 0 7px;
+      color:#d8e4e9;
+    }
+    li:first-child:before{
+      content: "";
+    }
+  }
 }
+
 
 footer{
   background: #28292b;
@@ -38,8 +75,12 @@ footer{
   }
   .footer-social li {
     display: inline-block;
+    a:hover{
+      color:#fff;
+    }
   }
   .credits {
     margin-top: 20px;
+    color:#67696a;
   }
 }
