@@ -44,5 +44,6 @@
 DEMO版型：http://designova.net/themes/wordpress/dignity/
 我們用的首頁是
 Home 04 / Teal Green Accent / Split Layout with BG Image Slider(alider to right)
+http://designova.net/themes/wordpress/dignity/home_style_04/
 ```
 
