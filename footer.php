@@ -33,7 +33,7 @@
 
             <div class="row">
                 <article class="col-md-6 text-left">
-                    <h3><a href="#"><img src="images/footer_logo.png"></a></h3>
+                    <h3 class="logo" ><a href="#"  ><img src="images/footer_logo.png"></a></h3>
                     <article id="ticker" class="tweets-ticker query"></article>
                 </article>
                 <article class="col-md-6 text-right">
@@ -64,7 +64,8 @@
 <script src="http://localhost:35729/livereload.js"></script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<script src="js/owl-carousel/owl.carousel.min.js"></script>
+<!-- <script src="js/owl-carousel/owl.carousel.min.js"></script> -->
+ <script src="js/owl-carousel-v1/owl.carousel.js"></script>
 <script src="js/lightbox2-master/dist/js/lightbox.min.js"></script>
 
 <script src="js/script.js"></script>

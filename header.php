@@ -6,7 +6,7 @@
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="http://127.0.0.1/wp_eslite/xmlrpc.php">
 
-    <title>eslite | 全新的正體中文 WordPress 網誌！</title>
+    <title>eslite | 誠品行旅</title>
     <link rel="alternate" type="application/rss+xml" title="訂閱 eslite &raquo;" href="http://127.0.0.1/wp_eslite/feed/" />
     <link rel="alternate" type="application/rss+xml" title="訂閱 eslite &raquo; 迴響" href="http://127.0.0.1/wp_eslite/comments/feed/" />
     <script type="text/javascript">
@@ -25,7 +25,8 @@
     <link rel="stylesheet" href="css/style.css"/>
     <link rel="stylesheet" href="css/animate.css"/>
     <link rel="stylesheet" href="css/bootstrap.css"/>
-    <link rel="stylesheet" href="js/owl-carousel/owl.carousel.css"/>
+   <!--  <link rel="stylesheet" href="js/owl-carousel/owl.carousel.css"/> -->
+     <link rel="stylesheet" href="js/owl-carousel-v1/owl.carousel.css"/>
     <link rel="stylesheet" href="js/lightbox2-master/dist/css/lightbox.css"/>
 
     <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>

@@ -15,11 +15,14 @@
           font-size: 50px;
         }
       }
+
       .subtitle{
         font-size: 36px;
+        margin-bottom:150px;
       }
 
       .hometop_slider{
+        margin-bottom: 50px;
         .col-sm-1{
           padding: 0;
         }
@@ -76,8 +79,6 @@
                       margin-bottom:-120px;
                     }
 
-
-
                     &>div{
                       margin:auto;
                       display: inline-block;
@@ -107,22 +108,24 @@
               border-bottom: 0px;
             }
           }
-
-
         }
       .box_tab_content{
         background:#cb5237;
         padding:60px 40px;
         color:#fff;
 
+        .owl-controls{display:none !important;}
+
         p{
           color:#fff;
           line-height: 1.8em;
           margin-bottom: 0;
         }
-
       }
     }
+
+
+
 
 
     #home_isotope{
@@ -221,21 +224,59 @@
 
     /*
     *   wdr_homeslider
+    *
+    *   首頁 - 料理飲宴
+    *
     */
+    #home_restaurant{
+      .dep_dotted{margin-bottom:40px;}
+    }
 
     #wdr_homeslider{
-
-      width:980px;
-      margin:auto;
+      max-width:980px;
+      margin:40px auto  50px;
       text-align: center;
 
+
       .slide{
-        margin:15px;
+        color:#968d86;
         background: #eee;
         border-bottom: 7px solid #cb5237;;
+        width: 220px;
+        margin:auto;
+
+        h3{margin-top:50px;}
+        h4{
+          font-size: 13px;
+          margin: 20px;
+          font-weight: normal;
+        }
+
+        a,img{
+          display:block;
+        }
+        img{width:100%;}
 
 
-        h3{}
+        .subtitle{
+          color:#968d86;
+          font-weight:bold;
+        }
+        .desc{
+          font-size:13px;
+          text-align: left;
+          margin:20px 18px;
+          color:#968d86;
+          line-height: 1.5em;
+          letter-spacing: 1px;
+          height: 7.5em;
+          overflow: hidden;
+          a{
+            color:#968d86;
+            display: inline;
+            border-bottom: 1px solid  #cb5237;;
+          }
+        }
 
         .sep_red{
           height:6px;
@@ -251,13 +292,10 @@
         }
 
 
-        .desc{
-          font-size:13px;
-          text-align: left;
-          padding:20px 15px;
-        }
+
         .btns{
           text-align: center;
+          padding-top:20px;
           ul{
             display: inline-block;
             li{
@@ -287,43 +325,175 @@
 
 
 
+  /*
+  *   客房居所
+  *
+  */
+
     #home_room{
       #room_accordion{
-          width:980px;
-          margin:auto;
+         max-width:980px;
+          margin: 30px auto 50px;
         .panel{
           margin-top:0px;
           border-radius: 0;
           border-top:0px;
         }
         .panel:first-child{border-top:1px solid #ddd;}
+        .panel-body{
+          img{width:100%;}
+
+          .owl-controls{
+              position: absolute;
+              left: 45%;
+              bottom: 10px;
+              .owl-page span{
+                height: 8px;
+                width: 8px;
+              }
+          }
+
+          .room_desc{
+            color:#a39a93;
+            line-height: 2em;
+            margin-bottom:20px
+          }
+          a.more{
+            color:#a39a93;
+            border:1px solid #a39a93;
+            padding:5px 12px;
+            display: inline-block;
+          }
+
+          .room_link{
+            margin:60px 0 0 0px;
+            .pull-left{
+              margin-right:10px;
+            }
+          }
+
+
+          .item_outter{
+            display:inline-block;
+            margin-bottom:20px;
+
+            h3{
+              font-size:13px;
+              color:#a39a93;
+              margin-top:10px;
+            }
+
+            a.item{
+
+              display: block;
+              border: 5px solid #a39a93;
+              height: 50px;
+              width: 50px;
+              border-radius: 100%;
+              display: table-cell;
+              vertical-align: middle;
+              text-align: center;
+              margin: 0 auto;
+              box-shadow: 0 1px 1px #444;
+
+
+              -webkit-transition: all .1s linear;
+              -moz-transition: all .1s linear;
+              -ms-transition: all .1s linear;
+              -o-transition: all .1s linear;
+              transition: all .1s linear;
+
+
+              i{
+                color:#a39a93;
+                font-size:23px;
+                -webkit-transition: all .1s linear;
+                -moz-transition: all .1s linear;
+                -ms-transition: all .1s linear;
+                -o-transition: all .1s linear;
+                transition: all .1s linear;
+                text-shadow: 0 1px 1px #333;
+              }
+            }
+          }
+
+
+
+        }
       }
     }
+
 
 
 
 
     #home_textslider.wdr_bkimg_outter{
-      height:420px;
+      height:auto;
+      padding-bottom: 0;
+
       .wdr_bkimg{
         background:url(../images/onepage/bk2.jpg) no-repeat center fixed;
         background-size: cover ;
-        height:370px;
-        opacity: 0.4;
+        height:auto;
+        position: relative;
+
+
+        .desc{
+          padding:70px 0  50px;
+          background: rgba(255,255,255,.7);
+          height: 100%;
+        }
       }
     }
+
+
+
+
+
+    #wdr_oneslider{
+
+      margin:auto;
+      text-align: center;
+      color:#000;
+      .slide{
+
+        h3 {
+          color:#000;
+          font-size: 14px;
+        }
+
+        .sep_red_l{margin:10px auto 20px;}
+        .subtitle{
+          line-height: 1.7em;
+          letter-spacing: 2px;
+          margin-bottom: 20px;
+        }
+        .date{
+          letter-spacing: 2px;
+        }
+        img{
+          width:auto;
+          display: block;
+          margin:auto;
+        }
+      }
+    }
+
+
+
+
 
 
 
 
 
     .wdr_bkimg_outter{
-      height:600px;
+      height:580px;
       width:100%;
         .wdr_bkimg{
             background:url(../images/onepage/bk1.jpg) no-repeat center center;
             background-size: cover;
-            height:600px;
+            height:580px;
             left:0;
             width:100%;
             position: absolute;
