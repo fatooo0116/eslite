@@ -1,0 +1,127 @@
+#travel{
+  padding-top:100px;
+  max-width: 1200px;
+
+
+
+
+  .title_sep{
+    background: #cb5237;
+    margin:20px auto 20px;
+    height:12px;
+    width:80px;
+  }
+  .subtitle{
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .desc{
+    font-size:20px;
+  }
+
+  .es_title .desc {
+    font-size: 20px;
+    line-height: 1.7em;
+    letter-spacing: 1px;
+  }
+
+  .dep_dotted{
+    background: url(../images/sep_dot.gif) no-repeat center bottom;
+    height: 35px;
+    margin-bottom: 40px;
+  }
+
+
+
+
+
+
+  /*
+   * feature_img
+   */
+  .feature_img{
+    padding-top:10px;
+    margin-bottom:20px;
+    .desc{
+      line-height: 2em;
+      letter-spacing: 1px;
+      font-size: 16px;
+    }
+  }
+
+
+  .travel_thumbnail{
+    margin-bottom: 20px;
+    & > div{
+      margin-bottom:20px;
+    }
+    a{
+        display: block;
+        max-width: 368px;
+        max-height: 245px;
+        overflow:hidden;
+        position: relative;
+        margin: auto;
+
+
+      .category{
+        position: absolute;
+        padding:15px;
+        font-size:19px;
+        line-height: 20px;
+        background: rgba(0,0,0,0.8);
+        color:#fff;
+        bottom: -55px;
+        width: 100%;
+        -webkit-transition: all .4s ease-in-out;
+        -moz-transition: all .4s ease-in-out;
+        -ms-transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+      }
+      .subtitle{
+        position: absolute;
+        width: 100%;
+        color:#fff;
+        text-align: center;
+
+        top:60%;
+        font-size: 13px;
+        letter-spacing: 1px;
+        text-shadow: 0 1px 5px #000;
+        opacity: 0;
+        -webkit-transition: all .6s ease-in-out;
+        -moz-transition: all .6s ease-in-out;
+        -ms-transition: all .6s ease-in-out;
+        -o-transition: all .6s ease-in-out;
+        transition: all .6s ease-in-out;
+      }
+      img{
+        display: block;
+        width: 100%;
+      }
+    }
+
+    a:hover{
+      .category{
+        bottom: 0;
+      }
+      .subtitle{
+       opacity: 1;
+        top:50%;
+      }
+
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+}

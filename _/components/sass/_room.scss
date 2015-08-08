@@ -9,6 +9,8 @@
   */
   .room_equip{
     margin-bottom:50px;
+    max-width:820px;
+    margin:auto;
 
       .item{
         padding:10px;
@@ -23,10 +25,51 @@
 
 
   /*
+  *   room thumb_btn
+  *
+  */
+
+  .room_slider_outter{
+    max-width:840px;
+    margin:40px auto;
+    .owl-item{
+      img{width:100%;}
+    }
+    .owl-controls{
+      display:none !important;
+    }
+  }
+  .thumbnail_btn{
+    margin-top:20px;
+    margin-bottom:40px;
+    ul{
+      li{
+        float: left;
+        margin-right:10px;
+        a{
+          border:1px solid #ddd;
+          padding: 2px;;
+          display: block;
+          img{
+            height:50px;
+          }
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+  /*
   *   room_tab
   */
   .room_tab{
     margin-bottom:70px;
+    max-width:840px;
+    margin:40px auto;
 
       .tabs-left > .nav-tabs > li,
       .tabs-right > .nav-tabs > li {

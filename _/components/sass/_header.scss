@@ -4,6 +4,7 @@
 
 -------------------------------- */
 
+
 #masthead {
   min-height: 80px;
   width: 100%;
@@ -16,9 +17,17 @@
   -ms-transition: all .4s ease-in-out;
   -o-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
+  /*
   background-color: #fff;
   box-shadow: 0 1px 3px #999;
+  */
 
+
+
+  &.bk_w{
+    background-color: #fff;
+    box-shadow: 0 1px 3px #999;
+  }
 
 
   .logo {

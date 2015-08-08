@@ -37,10 +37,14 @@
    */
   .feature_img{
     padding-top:10px;
+    a{
+      display: block;
       img{
         display: block;
         margin: 0 auto 30px;
+        width: 100%;
       }
+    }
       .desc{
         line-height: 2em;
         letter-spacing: 1px;

@@ -10,7 +10,9 @@
 @import "wdr_tool";
 @import "news";
 @import "home_onepage";
-
+@import "travel";
+@import "comment";
+@import "rwd";
 
 body{
   overflow-x: hidden;
@@ -30,6 +32,12 @@ body{
   &.pace-done #page{
     opacity: 1;
   }
+
+
+  .align-right{
+    text-align: right;
+  }
+
 }
 
 

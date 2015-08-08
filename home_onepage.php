@@ -5,6 +5,47 @@ include "header.php"
 
 <div class="" id="home_onepage" >
 
+<div id="gallery"></div>
+
+
+    <div id="home"    style="height: 761px; " class="dignity-page-section splash-page   right-split">
+        <div class="vertical-center ">
+            <div class="row align-right">
+               <ul class="tools  clear">
+                   <li><a href=""><i class="fa fa-calendar"></i></a></li>
+                   <li><a href=""><i class="fa fa-book"></i></a></li>
+                   <li><a href=""><i class="fa fa-video-camera"></i></a></li>
+               </ul>
+            </div>
+            <div class="row align-right">
+                <div class="text-rotator-fade dark-txt light-heading  uppercase add-top-small add-bottom-small">
+                    <h3  class="text-cht" >讀萬卷書<br>行萬里路</h3>
+                    <h3 class="text-eng  align-right clear">
+                        <span>To read is to live</span><span> a thousand lives.</span>
+                    </h3>
+                    <h3 class="text-eng  align-right clear">
+                        <span>To travel is to </span><span>discover the world.</span>
+                    </h3>
+                </div>
+                    <span style="line-height: 1.5em;"></span>
+                </div><div class="row align-right">
+                <span style="line-height: 1.5em;">
+                    <a href="#home_top" class="btn btn-rounded scroll">Go</a>
+                </span>
+                <span style="line-height: 1.5em;"></span>
+            </div>
+        </div>
+
+
+        <div class="home_bottom_left">
+            <ul class="clear pull-right  lang">
+                <li><a href="#">繁體中文</a></li>
+                <li><a href="#">簡體中文</a></li>
+                <li><a href="#">ENGLISH</a></li>
+                <li><a href="#">日本語</a></li>
+            </ul>
+        </div>
+    </div>
 
 
 
@@ -22,10 +63,10 @@ include "header.php"
             </div>
         </div>
 
-        <div class=" hometop_slider container" style="width: 100%;">
+        <div class=" hometop_slider container" style="width: 100%;max-width: inherit;">
             <div class="row">
-                <div class="col-sm-1 col-xs-3">
-                    <a href="images/onepage/f1.jpg"  data-lightbox="roadtrip"  data-title="a1"><img src="images/onepage/f1.jpg"></a></div>
+                <div class="col-sm-1 col-xs-3  item  " >
+                    <a href="images/onepage/f1.jpg"  data-lightbox="roadtrip"  data-title="a1"><img src="images/onepage/f1.jpg" class=""></a></div>
                 <div class="col-sm-1 col-xs-3">
                     <a href="images/onepage/f2.jpg" data-lightbox="roadtrip"><img src="images/onepage/f2.jpg"></a></div>
                 <div class="col-sm-1 col-xs-3">
@@ -156,7 +197,7 @@ include "header.php"
                 <div class="item">
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 about_text">
                                 <p>"最高級的休閒娛樂形式就是靜下來感受世界 ...... --柏拉圖"</p>
                                 <p>"城市的價值在於文化底蘊的呈現 ... ... --貝聿銘"<p/>
                                 <br/>
@@ -175,14 +216,20 @@ include "header.php"
                                 <p>藝術電影 音樂表演</p>
                                 <p>帶領我們走向心靈的探索 追尋喜悅的幸福人生</p>
                             </div>
-                            <div class="col-sm-6"></div>
+                            <div class="col-sm-6 about_thumbnails">
+                                <div class="col-xs-4"><a href="images/onepage/5sense/1_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/1_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/2_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/2_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/3_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/3_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/4_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/4_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/6_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/6_125.jpg" alt=""  /></a></div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 about_text">
                                 <p>誠品行旅位於松山文創園區內，緊鄰誠品生活松菸店，紅點設計博物館，松菸倉庫和國父紀念館，
                                     近鄰台北101，世貿中心，誠品信義與敦南書店。</p>
                                 <p>建於1937年的松山菸廠，曾經是台灣最重要的香菸產出地，古蹟見證了台灣數十載的演變，收納了無數人的半生歲月，
@@ -190,14 +237,20 @@ include "header.php"
                                 <p>2011年轉型為松山文創園區，文創產業的進駐，為老建築提供新動力，更是創新能量的展演平台。</p>
                                 <p>2015年於松山文創園區，誠品行旅開幕，在歷史古蹟與蒼鬱林木之間，懷抱對土地雨過往的感謝與尊重，落足台北最後的秘密花園。</p>
                             </div>
-                            <div class="col-sm-6"></div>
+                            <div class="col-sm-6 about_thumbnails">
+                                <div class="col-xs-4"><a href="images/onepage/5sense/1_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/1_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/2_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/2_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/3_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/3_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/4_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/4_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/6_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/6_125.jpg" alt=""  /></a></div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 about_text">
                                 <p>33誠品行旅位於松山文創園區內，緊鄰誠品生活松菸店，紅點設計博物館，松菸倉庫和國父紀念館，
                                     近鄰台北101，世貿中心，誠品信義與敦南書店。</p>
                                 <p>建於1937年的松山菸廠，曾經是台灣最重要的香菸產出地，古蹟見證了台灣數十載的演變，收納了無數人的半生歲月，
@@ -205,7 +258,13 @@ include "header.php"
                                 <p>2011年轉型為松山文創園區，文創產業的進駐，為老建築提供新動力，更是創新能量的展演平台。</p>
                                 <p>2015年於松山文創園區，誠品行旅開幕，在歷史古蹟與蒼鬱林木之間，懷抱對土地雨過往的感謝與尊重，落足台北最後的秘密花園。</p>
                             </div>
-                            <div class="col-sm-6"></div>
+                            <div class="col-sm-6 about_thumbnails">
+                                <div class="col-xs-4"><a href="images/onepage/5sense/1_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/1_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/2_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/2_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/3_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/3_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/4_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/4_125.jpg" alt=""  /></a></div>
+                                <div class="col-xs-4"><a href="images/onepage/5sense/6_1024.jpg" data-lightbox="about1" ><img src="images/onepage/5sense/6_125.jpg" alt=""  /></a></div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -836,6 +895,53 @@ include "header.php"
         </div>
     </section>
 </div>
+
+
+
+<script   src="js/jquery.mb.bgndGallery.js"></script>
+<script>
+    (function($){
+        $(document).ready(function(){
+
+
+
+            $.mbBgndGallery.buildGallery({
+
+                containment:"body",
+                shuffle:false,
+                effect:"fade",
+                timer:4000,
+                effTimer:3000,
+                grayScale:false,
+                preserveTop:false,
+                preserveWidth:false,
+                controls:"#controls",
+                images:[
+
+                    "http://127.0.0.1/eslite/images/onepage/home-dark-1.jpg",
+                    "http://127.0.0.1/eslite/images/onepage/home-dark-2.jpg",
+                    "http://127.0.0.1/eslite/images/onepage/home-dark-3.jpg",
+                    "http://127.0.0.1/eslite/images/onepage/home-dark-5.jpg"
+                    /*
+                    "http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/01.jpg",
+                    "http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/02.jpg"
+                    */
+
+                ],
+                autoStart:true
+                /*
+                onStart:function(){$("#controls .play").show();$("#controls .pause").hide();},
+                onPause:function(){$("#controls .play").show();$("#controls .pause").hide();},
+                onPlay:function(o){$("#controls .play").hide();$("#controls .pause").show();},
+                onNext:function(o){o.effect="slideLeft"},
+                onPrev:function(o){o.effect="slideRight"}
+                */
+            })
+
+
+        });
+    })(jQuery);
+</script>
 
 <?php
 include "footer.php"

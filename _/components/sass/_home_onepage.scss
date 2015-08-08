@@ -1,9 +1,87 @@
 #home_onepage{
-    padding-top:90px;
+
 
     section{
       padding:50px 0;
+      background: #fff;
     }
+
+
+
+    #home{
+      background: rgb(255,255,255);
+      position: relative;
+      .vertical-center{
+        padding-top:120px;
+      }
+
+      ul.tools{
+        display:inline-block;
+        margin-right:5px;
+          li{
+            float:left;
+            margin-left:25px;
+            a{
+              border: 5px solid #a19a92 ;
+              height:50px;
+              width:50px;
+              display: table-cell;
+              vertical-align: middle;
+              border-radius: 100%;
+              text-align: center;
+
+              i{
+                color:#a19a92;
+                font-size:25px;
+              }
+            }
+          }
+      }
+
+      h3{
+        &.text-cht{
+          font-size: 40px;
+          letter-spacing: 2px;
+          margin-bottom:15px;
+
+        }
+        &.text-eng{
+          font-size: 40px;
+          margin-bottom: 20px;
+          span{
+
+          }
+        }
+      }
+
+      .home_bottom_left{
+        position: absolute;
+        bottom: 10px;
+        right: 35px;
+
+        ul{
+          li{
+            float: left;
+            a{
+              color:#000;
+            }
+          }
+          li:before{
+            content: " | ";
+            padding: 0 2px 0 5px;
+            color:#000;
+          }
+          li:first-child:before{
+            content: "";
+          }
+        }
+      }
+    }
+
+
+
+
+
 
 
 
@@ -35,8 +113,9 @@
     #home_tab.wdr_bkimg_outter{
       height:auto;
 
+
         .wdr_bkimg{
-          background:url(../images/onepage/bookwall3.jpg) no-repeat center center;
+          background:url(../images/onepage/bookwall4.jpg) no-repeat center fixed;
           height:auto;
           position: relative;
           background-size: cover;
@@ -120,6 +199,22 @@
           color:#fff;
           line-height: 1.8em;
           margin-bottom: 0;
+        }
+
+        .about_text{
+          margin-bottom:20px;
+        }
+        .about_thumbnails{
+          .col-xs-4{
+            margin-bottom:20px;
+              a{
+                display:block;
+                img{
+                  width: 100%;
+                  display: block;
+                }
+              }
+          }
         }
       }
     }
@@ -296,6 +391,7 @@
         .btns{
           text-align: center;
           padding-top:20px;
+          padding-bottom: 10px;
           ul{
             display: inline-block;
             li{
@@ -488,10 +584,11 @@
 
 
     .wdr_bkimg_outter{
+
       height:580px;
       width:100%;
         .wdr_bkimg{
-            background:url(../images/onepage/bk1.jpg) no-repeat center center;
+            background:url(../images/onepage/bk1.jpg) no-repeat center fixed;
             background-size: cover;
             height:580px;
             left:0;

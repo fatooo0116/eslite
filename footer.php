@@ -4,11 +4,11 @@
 <div class="footer">
     <div class=" container">
     <section class="row">
-        <div class="col-md-6">
+        <div class="col-sm-6">
             <div class="address">11072 台北市信義區菸廠路98號</div>
             <div class="tel">02-6626.2888</div>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-6">
             <div  class="weather pull-right "><i class="fa fa-cloud"></i> 2015/04/05   28°C / 82°F</div>
             <div class="clear"></div>
             <ul class="clear pull-right  lang">
@@ -32,11 +32,10 @@
         <section class="container">
 
             <div class="row">
-                <article class="col-md-6 text-left">
+                <article class="col-sm-6 text-left  ">
                     <h3 class="logo" ><a href="#"  ><img src="images/footer_logo.png"></a></h3>
-                    <article id="ticker" class="tweets-ticker query"></article>
                 </article>
-                <article class="col-md-6 text-right">
+                <article class="col-sm-6 text-right">
                     <ul class="footer-social">
                         <li><a href="mailto:mail@domain.tld" target="_blank"><img alt="誠品行旅" src="http://new.eslitehotel.com/skin/images/social_icons/email.png"></a></li>
                         <li><a href="designova" target="_blank"><img alt="誠品行旅" src="http://new.eslitehotel.com/skin/images/social_icons/facebook.png"></a></li>
@@ -63,11 +62,17 @@
 </div><!-- [end] footer -->
 <script src="http://localhost:35729/livereload.js"></script>
 
+
+<script src="js/smooth-scroll.js"></script>
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <!-- <script src="js/owl-carousel/owl.carousel.min.js"></script> -->
  <script src="js/owl-carousel-v1/owl.carousel.js"></script>
 <script src="js/lightbox2-master/dist/js/lightbox.min.js"></script>
-
+<script src="js/header_nav.js"></script>
+<script src="js/jquery.parallax.min.js"></script>
+<script src="js/section_h.js"></script>
 <script src="js/script.js"></script>
+
 </body>
 </html>

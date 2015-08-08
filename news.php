@@ -1,5 +1,5 @@
 <?php
-include "header.php"
+    include "header.php"
 ?>
 
 
@@ -9,13 +9,44 @@ include "header.php"
 
             <article class="blog-post">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-sm-3 col-xs-4">
 
                         <div class="featured-image">
                             <a href="#"  class="blog-featured-img" >
-                                <img src="images/news/new1.png" alt="">
+                                <img src="images/news/n1.jpg" alt="">
                             </a>
                         </div>
+                    </div>
+                    <div class="col-sm-7 col-xs-8 tl">
+                        <h3 class="main-heading"><a href="#">【專程，創玩藝】手作體驗專案</a></h3>
+                        <div class="bolg-meta">
+                            <span class="date">2015-06-20</span>
+                            <span class="date">旅程限定</span>
+                        </div>
+                        <div class="summary">
+                            三天二夜 | 二天一夜 優惠<br/>
+
+                            設計的實演基地，工藝的摩娑試驗；<br/>
+                            誠品行旅，一個讓人躍躍欲試的地方。
+                        </div>
+                        <a class="more " href="#">深入閱讀</a>
+                    </div>
+                </div>
+            </article>
+
+
+
+            <article class="blog-post">
+                <div class="row">
+                    <div class="col-sm-3 col-xs-4">
+
+                        <div class="featured-image">
+                            <a href="#"  class="blog-featured-img" >
+                                <img src="images/news/n2.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 col-xs-8 tl">
                         <h3 class="main-heading">整裝待發</h3>
                         <div class="bolg-meta">
                             <span class="date">2015 / 06 / 20</span>
@@ -23,69 +54,93 @@ include "header.php"
                         </div>
                         <div class="summary">
                             【穿說，城內城外世】<br/>
-                            歷史生態的爬梳探勘 藝文渠道的親臨拓寬<br/><br/>
-
-                            攜家帶眷，共譜暑期的宛轉章節，池畔散記，閱覽時代的故事與演進，<br/>
-                            城市發聲，沉浸人文美學的悠然光景。<br/>
+                            歷史生態的爬梳探勘<br/>
+                            藝文渠道的親臨拓寬
                         </div>
-                        <a class="more" href="#">深入閱讀</a>
+                        <a class="more " href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
 
-            <div class="clear"></div>
+
 
             <article class="blog-post">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-sm-3 col-xs-4">
 
                         <div class="featured-image">
                             <a href="#"  class="blog-featured-img" >
-                                <img src="images/news/new2.png" alt="">
+                                <img src="images/news/n3.jpg" alt="">
                             </a>
                         </div>
-                        <h3 class="main-heading">整裝待發</h3>
+                    </div>
+                    <div class="col-sm-7 col-xs-8 tl">
+                        <h3 class="main-heading"><a href="#">【In Between Steakhouse 信用卡優惠】</a></h3>
                         <div class="bolg-meta">
-                            <span class="date">2015 / 06 / 20</span>
-                            <span class="date">優惠精選,旅程限定</span>
+                            <span class="date">2015-06-08</span>
+                            <span class="date">美饌佳餚</span>
                         </div>
                         <div class="summary">
-                            【穿說，城內城外世】<br/>
-                            歷史生態的爬梳探勘 藝文渠道的親臨拓寬<br/><br/>
-
-                            攜家帶眷，共譜暑期的宛轉章節，池畔散記，閱覽時代的故事與演進，<br/>
-                            城市發聲，沉浸人文美學的悠然光景。<br/>
+                            持中信、富邦、花旗限定卡別信用卡用餐享五折起優惠<br/>
+                            活動期間：104/07/17 至 2015/09/30
                         </div>
-                        <a class="more" href="#">深入閱讀</a>
+                        <a class="more " href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
 
-            <div class="clear"></div>
 
             <article class="blog-post">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-sm-3 col-xs-4">
 
                         <div class="featured-image">
                             <a href="#"  class="blog-featured-img" >
-                                <img src="images/news/new1.png" alt="">
+                                <img src="images/news/n4.jpg" alt="">
                             </a>
                         </div>
-                        <h3 class="main-heading">大隱於市，行旅源起</h3>
+                    </div>
+                    <div class="col-sm-7 col-xs-8 tl">
+                        <h3 class="main-heading"><a href="#">【Chef Table Menu】紀念的回甘款待</a></h3>
                         <div class="bolg-meta">
-                            <span class="date">2015 / 06 / 20</span>
-                            <span class="date">優惠精選</span>
+                            <span class="date">2015-06-01</span>
+                            <span class="date">美饌佳餚</span>
                         </div>
                         <div class="summary">
-                            第一家　聚合人文閱讀　文創展演　音樂電影　綠意自然<br/>
-                            體驗生命感動的藝文旅館<br/>
-                            誠品行旅<br/>
-                            承載台北古老歷史與悠久文化的松山菸廠<br/>
-                            迎向國際文創產業與人才培育的文化園區<br/>
-                            體現台灣風土民情　連結國際文創風華<br/>
+                            花瓣簇擁，主廚精選，<br/>
+                            瓊漿玉液，款待切切。<br/>
+                            讓每段紀念日都念念不忘，<br/>
+                            讓每一口都回甘生香。
                         </div>
-                        <a class="more" href="#">深入閱讀</a>
+                        <a class="more " href="#">深入閱讀</a>
+                    </div>
+                </div>
+            </article>
+
+
+            <article class="blog-post">
+                <div class="row">
+                    <div class="col-sm-3 col-xs-4">
+
+                        <div class="featured-image">
+                            <a href="#"  class="blog-featured-img" >
+                                <img src="images/news/n5.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 col-xs-8 tl">
+                        <h3 class="main-heading"><a href="#">【精選開胃沙拉吧】向晚的異國食尚</a></h3>
+                        <div class="bolg-meta">
+                            <span class="date">2015-05-30</span>
+                            <span class="date">美饌佳餚</span>
+                        </div>
+                        <div class="summary">
+                            料理的多彩熱情、婉約細膩，<br/>
+                            味蕾的層層探險、遠渡重洋。<br/>
+                            向晚的夜色與異國風情相伴，<br/>
+                            濃縮成馥郁的美好。
+                        </div>
+                        <a class="more " href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
@@ -106,36 +161,6 @@ include "header.php"
             </div>
 
             <div class="clear"></div>
-
-            <div id="recent-posts" class="widget">
-                <h4 class="sub-heading"><span class="highlight-txt">近期文章</span></h4>
-
-                <ul>
-                    <li>
-                        <a href="#">Hello world! 哈囉！</a>
-                    </li>
-                    <li>
-                        <a href="#">Hello world!</a>
-                    </li>
-                    <li>
-                        <a href="#">Aliquam nisi nulla sollicitudin</a>
-                    </li>
-                    <li>
-                        <a href="#">Donec id purus vulputate vulputate</a>
-                    </li>
-                    <li>
-                        <a href="#">Maecenas porta mollis commodo</a>
-                    </li>
-                </ul>
-            </div>
-
-
-            <div id="recent-posts" class="widget">
-                <h4 class="sub-heading"><span class="highlight-txt">影片</span></h4>
-                <div>
-                    <iframe style="min-height:215px;width: 100%;" width="100%" height="auto" src="https://www.youtube.com/embed/rbyVJlSu1XI" frameborder="0" allowfullscreen></iframe>
-                </div>
-            </div>
 
 
 
@@ -163,6 +188,39 @@ include "header.php"
                     </li>
                 </ul>
             </div>
+
+
+            <div id="recent-posts" class="widget">
+                <h4 class="sub-heading"><span class="highlight-txt">近期訊息</span></h4>
+
+                <ul>
+                    <li>
+                        <a href="#">Hello world! 哈囉！</a>
+                    </li>
+                    <li>
+                        <a href="#">Hello world!</a>
+                    </li>
+                    <li>
+                        <a href="#">Aliquam nisi nulla sollicitudin</a>
+                    </li>
+                    <li>
+                        <a href="#">Donec id purus vulputate vulputate</a>
+                    </li>
+                    <li>
+                        <a href="#">Maecenas porta mollis commodo</a>
+                    </li>
+                </ul>
+            </div>
+
+
+
+            <div id="recent-posts" class="widget">
+                <h4 class="sub-heading"><span class="highlight-txt">影片</span></h4>
+                <div>
+                    <iframe style="min-height:215px;width: 100%;" width="100%" height="auto" src="https://www.youtube.com/embed/rbyVJlSu1XI" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+
 
 
         </div>

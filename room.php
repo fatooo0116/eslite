@@ -3,7 +3,7 @@ include "header.php"
 ?>
 
 
-<div class="container " id="room" style="min-height: 800px;">
+<div id="room" style="min-height: 800px;">
     <div class="es_title">
         <h2  class="tc">經典客房</h2>
         <div class="title_sep"></div>
@@ -15,10 +15,28 @@ include "header.php"
         <div class="dep_dotted"></div>
     </div>
 
-    <div class="room_slider">
-        room slider
-    </div>
 
+
+
+    <section class="container">
+    <div class="row">
+    <div class="room_slider_outter col-sm-12">
+        <div  class="room_slider owl-carousel">
+            <div><img src="images/room/room1.png" ></div>
+            <div><img src="images/room/room2.jpg" ></div>
+        </div>
+        <div class="thumbnail_btn clear">
+            <ul>
+                <li><a href=""><img src="images/room/room1.png"></a></li>
+                <li><a href=""><img src="images/room/room2.jpg"></a></li>
+            </ul>
+        </div>
+    </div>
+    </div>
+    </section>
+
+
+    <section class="container">
     <div class="room_equip">
         <div class="row">
             <div class="col-sm-4 item">
@@ -74,9 +92,10 @@ include "header.php"
             </div>
         </div>
     </div>
+    </section>
 
 
-    <div class="room_tab">
+
         <!-- tabs left -->
         <style>
             .tabs-left > .nav-tabs > li,
@@ -131,31 +150,36 @@ include "header.php"
                 width: 80%;
             }
         </style>
+        <section class="container">
 
-        <div class="tabbable tabs-left  clear">
-            <ul class="nav nav-tabs">
-                <li class="active"><a href="#a" data-toggle="tab">基本資訊</a></li>
-                <li ><a href="#b" data-toggle="tab">生活機能</a></li>
-                <li><a href="#c" data-toggle="tab">衛浴設備</a></li>
-                <li><a href="#d" data-toggle="tab">客房餐飲</a></li>
-                <li><a href="#e" data-toggle="tab">貼心服務</a></li>
-            </ul>
-            <div class="tab-content">
-                <div class="tab-pane active" id="a">1Lorem ipsum dolor sit amet, charetra varius quam sit amet vulputate.
-                    Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.</div>
-                <div class="tab-pane" id="b">2Secondo sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan.
-                    Aliquam in felis sit amet augue.</div>
-                <div class="tab-pane" id="c">3Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate.
-                    Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
-                <div class="tab-pane" id="d">4Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate.
-                    Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
-                <div class="tab-pane" id="e">5Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate.
-                    Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
+            <div clas="row">
+            <div class="room_tab">
+            <div class="tabbable tabs-left  clear">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a href="#a" data-toggle="tab">基本資訊</a></li>
+                    <li ><a href="#b" data-toggle="tab">生活機能</a></li>
+                    <li><a href="#c" data-toggle="tab">衛浴設備</a></li>
+                    <li><a href="#d" data-toggle="tab">客房餐飲</a></li>
+                    <li><a href="#e" data-toggle="tab">貼心服務</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane active" id="a">1Lorem ipsum dolor sit amet, charetra varius quam sit amet vulputate.
+                        Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.</div>
+                    <div class="tab-pane" id="b">2Secondo sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan.
+                        Aliquam in felis sit amet augue.</div>
+                    <div class="tab-pane" id="c">3Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate.
+                        Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
+                    <div class="tab-pane" id="d">4Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate.
+                        Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
+                    <div class="tab-pane" id="e">5Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate.
+                        Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
+                </div>
             </div>
-        </div>
         <!-- /tabs -->
-    </div>
+        </div></div>
+        </section>
 
+    <section class="container">
     <div class="room_fun">
         <div class="row">
             <div class="col-sm-2 col-xs-6 col-sm-offset-2 tc">
@@ -184,7 +208,9 @@ include "header.php"
             </div>
         </div>
     </div>
+    </section>
 
+    <section class="container">
     <div class="room_related">
         <div id="wdr_owl-room" class="wdr_owl_carousel">
             <div>
@@ -219,6 +245,7 @@ include "header.php"
             </div>
         </div>
     </div>
+    </section >
 
 </div>
 

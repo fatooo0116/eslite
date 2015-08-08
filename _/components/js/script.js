@@ -87,15 +87,36 @@
 
 
 
+
         if($("#wdr_oneslider").length>0){
             $("#wdr_oneslider").owlCarousel({
-
                 navigation : false, // Show next and prev buttons
                 slideSpeed : 300,
                 paginationSpeed : 400,
                 singleItem:true
             });
         }
+
+
+        if($(".room_slider").length>0){
+            var roomslider = $(".room_slider").owlCarousel({
+
+                                navigation : false, // Show next and prev buttons
+                                slideSpeed : 300,
+                                paginationSpeed : 400,
+                                singleItem:true
+                            });
+
+            $(".thumbnail_btn ul li a").on("click",function(e){
+                e.preventDefault();
+
+                var idx = $(this).parent().index();
+
+                roomslider.trigger("owl.goTo",idx);
+            });
+        }
+
+
 
 
 
@@ -124,6 +145,15 @@
             $(this).addClass("active").siblings().removeClass("active");
         });
 
+
+
+
+
+
+        $("#home_activity .wdr_bkimg").parallax("50%", 0.4);
+        $("#home_textslider .wdr_bkimg").parallax("50%", 0.4);
+        $("#home_tab .wdr_bkimg").parallax("50%", 0.4);
+        $("#home_bkimg .wdr_bkimg").parallax("50%", 0.4);
 
 
     });

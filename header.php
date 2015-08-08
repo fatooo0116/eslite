@@ -22,14 +22,15 @@
     -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css"/>
+
     <link rel="stylesheet" href="css/animate.css"/>
     <link rel="stylesheet" href="css/bootstrap.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
    <!--  <link rel="stylesheet" href="js/owl-carousel/owl.carousel.css"/> -->
      <link rel="stylesheet" href="js/owl-carousel-v1/owl.carousel.css"/>
     <link rel="stylesheet" href="js/lightbox2-master/dist/css/lightbox.css"/>
 
-    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="js/jquery.js"></script>
 </head>
 
 <body class="home blog">
@@ -41,14 +42,14 @@
             <h1 class="sm-logo">誠品行旅</h1>
             <i class="icon-remove menu-close"></i>
             <div id="dignity-sliding-navi" class="clearfix dignity-sliding-nav  front-page">
-                <a href="#" class="scroll is_onepage" data-soffset="0">home test</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">About</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">Services</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">Team</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">Portfolio</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">Testimonial</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">News Slider test</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">Contact</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">關於行旅</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">城市遊藝</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">客房居所</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">料理飲宴</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">優惠精選</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">迴響記憶</a>
+                <a href="#" class="scroll is_onepage" data-soffset="0">部落格</a>
+                <!-- <a href="#" class="scroll is_onepage" data-soffset="0">Contact</a> -->
             </div>
         </div>
         <!-- Navigation Trigger Button -->
@@ -60,7 +61,7 @@
 
     <!-- masthead : starts -->
     <header id="masthead" class="clearfix trans-header">
-        <h1 class="logo"><img src="images/logo.jpg" class="pull-right">誠品行旅</h1>
+        <h1 class="logo"><img src="images/logo.jpg" class="pull-right"></h1>
     </header>
     <!-- masthead : ends -->
 
