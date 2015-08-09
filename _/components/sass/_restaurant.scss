@@ -13,6 +13,17 @@
 
 
 
+  #rest_slider{
+    margin-bottom: 30px;
+    img{
+
+        width: 100%;
+        height:auto;
+
+    }
+  }
+
+
   /*
   *   room_equip
   */
@@ -110,4 +121,23 @@
   }
 
 
+}
+
+
+
+
+@media (max-width: 768px) {
+  #restaurant{
+   .info-desc{
+       ul li{
+         text-align: center;
+         padding:20px 0;
+
+         .col-sm-9{
+           font-size: 15px;
+           padding:10px 10px 0;
+         }
+       }
+   }
+  }
 }

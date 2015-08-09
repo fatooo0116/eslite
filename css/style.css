@@ -421,7 +421,8 @@ nav a {
         margin-right: 10px; }
   #room .room_slider_outter {
     max-width: 840px;
-    margin: 40px auto; }
+    margin: 40px auto;
+    float: none; }
     #room .room_slider_outter .owl-item img {
       width: 100%; }
     #room .room_slider_outter .owl-controls {
@@ -539,6 +540,11 @@ nav a {
     margin: 20px auto 30px;
     height: 12px;
     width: 80px; }
+  #restaurant #rest_slider {
+    margin-bottom: 30px; }
+    #restaurant #rest_slider img {
+      width: 100%;
+      height: auto; }
   #restaurant .room_equip {
     margin-bottom: 50px; }
     #restaurant .room_equip .item {
@@ -599,6 +605,13 @@ nav a {
         #restaurant .room_fun .item_outter a.item:hover i {
           font-size: 43px; }
 
+@media (max-width: 768px) {
+  #restaurant .info-desc ul li {
+    text-align: center;
+    padding: 20px 0; }
+    #restaurant .info-desc ul li .col-sm-9 {
+      font-size: 15px;
+      padding: 10px 10px 0; } }
 .footer {
   background: #303133;
   padding: 40px 0; }
@@ -1301,7 +1314,7 @@ footer {
         color: #fff;
         text-align: center;
         top: 60%;
-        font-size: 13px;
+        font-size: 11px;
         letter-spacing: 1px;
         text-shadow: 0 1px 5px #000;
         opacity: 0;
@@ -1317,7 +1330,8 @@ footer {
       bottom: 0; }
     #travel .travel_thumbnail a:hover .subtitle {
       opacity: 1;
-      top: 50%; }
+      top: 45%;
+      font-size: 14px; }
 
 #comment {
   padding-top: 100px;

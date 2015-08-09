@@ -2,25 +2,14 @@
     $(document).ready(function(){
 
         $("#wdr_owl-room").owlCarousel({
-            items : 3,
             navigation : false,
-            pagination : false,
-            loop: true,
-            responsive : {
-                // breakpoint from 0 up
-                0 : {
-                    items : 3,
-                },
-                480 : {
-                    items : 1,
-                },
-                768 : {
-                    items : 2,
-                },
-                1024 : {
-                    items : 3,
-                }
-            }
+            slideSpeed : 300,
+            paginationSpeed : 400,
+            items : 3, //10 items above 1000px browser width
+            itemsDesktop : [1000,2], //5 items between 1000px and 901px
+            itemsDesktopSmall : [900,2], // betweem 900px and 601px
+            itemsTablet: [600,1], //2 items between 600 and 0
+            itemsMobile : [450,1] // itemsMobile disabled - inherit from itemsTablet option
         });
 
 
@@ -82,9 +71,22 @@
                 paginationSpeed : 400,
                 singleItem:true
             });
+
+
         //}
 
 
+        if($("#rest_slider").length>0){
+            $("#rest_slider").owlCarousel({
+                navigation : false, // Show next and prev buttons
+                slideSpeed : 300,
+                paginationSpeed : 400,
+                singleItem:true,
+                autoPlay:true,
+                slideSpeed:300,
+                pagination:false
+            });
+        }
 
 
 

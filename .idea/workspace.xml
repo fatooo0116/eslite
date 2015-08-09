@@ -23,42 +23,127 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="news.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news.php">
+      <file leaf-file-name="_room.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/sass/_room.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="24" selection-start="30" selection-end="30" vertical-scroll-proportion="10.0" vertical-offset="255" max-vertical-offset="2790">
+            <state line="34" column="15" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2985">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="32" selection-start="2785" selection-end="2785" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2505">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weather_api.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/weather_api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="23" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="915">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_onepage.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home_onepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="103" column="25" selection-start="4727" selection-end="4727" vertical-scroll-proportion="0.24193548" vertical-offset="1425" max-vertical-offset="14310">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_restaurant.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/sass/_restaurant.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="0" selection-start="1939" selection-end="1939" vertical-scroll-proportion="-3.857143" vertical-offset="1686" max-vertical-offset="2220">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurant.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restaurant.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="26" selection-start="3710" selection-end="3710" vertical-scroll-proportion="0.0" vertical-offset="1515" max-vertical-offset="1740">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_travel.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/sass/_travel.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="7" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.0" vertical-offset="1605" max-vertical-offset="1995">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comment.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="-3.75" vertical-offset="195" max-vertical-offset="2625">
               <folding>
-                <element signature="tag#article#1;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-                <element signature="tag#article#2;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-                <element signature="tag#div#4;tag#div#1;tag#div#0;tag#div#0" expanded="false" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1439003568000" expanded="false" signature="76:94" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="95:6026" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="126:505" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="244:284" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="319:446" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="522:813" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="544:790" placeholder="{...}" />
+                <marker date="1439003568000" expanded="true" signature="586:778" placeholder="{...}" />
+                <marker date="1439003568000" expanded="true" signature="631:764" placeholder="{...}" />
+                <marker date="1439003568000" expanded="true" signature="676:745" placeholder="{&quot;itemSelector&quot;: '.item'...}" />
+                <marker date="1439003568000" expanded="true" signature="851:6014" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="882:2095" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="924:2076" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="1076:1337" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="1361:1817" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="1858:2053" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2127:2770" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2169:2751" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2193:2389" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2533:2728" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2802:3552" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2844:3533" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="2868:3171" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="3315:3510" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="3585:4798" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="3627:4779" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="3779:4040" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="4064:4520" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="4561:4756" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="4830:5998" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="4872:5979" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="4896:5296" placeholder="..." />
+                <marker date="1439003568000" expanded="false" signature="5360:5375" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="5376:5721" placeholder="..." />
+                <marker date="1439003568000" expanded="true" signature="5761:5956" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travel_image.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travel_image.php">
+      <file leaf-file-name="_comment.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/sass/_comment.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="68" selection-start="3121" selection-end="3121" vertical-scroll-proportion="-33.125" vertical-offset="540" max-vertical-offset="1665">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1770">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_travel.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_/components/sass/_travel.scss">
+      <file leaf-file-name="_news.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/components/sass/_news.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="8" selection-start="909" selection-end="909" vertical-scroll-proportion="0.5770677" vertical-offset="638" max-vertical-offset="1980">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_slidingmenu.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/components/sass/_slidingmenu.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="1" selection-start="1337" selection-end="1530" vertical-scroll-proportion="-6.122449" vertical-offset="615" max-vertical-offset="2580">
+            <state line="133" column="0" selection-start="2392" selection-end="2644" vertical-scroll-proportion="0.0" vertical-offset="1771" max-vertical-offset="2280">
               <folding />
             </state>
           </provider>
@@ -74,29 +159,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/home_onepage.php" />
-        <option value="$PROJECT_DIR$/_/components/sass/_home_onepage.scss" />
-        <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/header.html" />
-        <option value="$PROJECT_DIR$/home_onepage.html" />
-        <option value="$PROJECT_DIR$/_/components/sass/_restaurant.scss" />
-        <option value="$PROJECT_DIR$/memery.php" />
         <option value="$PROJECT_DIR$/_/components/sass/style.scss" />
         <option value="$PROJECT_DIR$/_/components/sass/_comment.scss" />
         <option value="$PROJECT_DIR$/comment.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/_/components/sass/_reset.scss" />
-        <option value="$PROJECT_DIR$/news.php" />
         <option value="$PROJECT_DIR$/_/components/sass/_news.scss" />
         <option value="$PROJECT_DIR$/travel_image.php" />
+        <option value="$PROJECT_DIR$/news.php" />
         <option value="$PROJECT_DIR$/_/components/sass/_travel.scss" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/_/components/sass/_room.scss" />
+        <option value="$PROJECT_DIR$/_/components/js/script.js" />
+        <option value="$PROJECT_DIR$/restaurant.php" />
+        <option value="$PROJECT_DIR$/_/components/sass/_restaurant.scss" />
+        <option value="$PROJECT_DIR$/js/weather_api.js" />
+        <option value="$PROJECT_DIR$/home_onepage.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="249" />
-    <option name="y" value="23" />
+    <option name="x" value="-1692" />
+    <option name="y" value="-412" />
     <option name="width" value="1141" />
     <option name="height" value="729" />
   </component>
@@ -126,7 +211,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,6 +333,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,8 +342,8 @@
     <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -300,7 +385,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="249" y="23" width="1141" height="729" extended-state="0" />
+    <frame x="-1692" y="-412" width="1141" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -308,7 +393,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25753424" sideWeight="0.6715928" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26210046" sideWeight="0.6715928" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -335,120 +420,142 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="0" selection-start="2848" selection-end="2848" vertical-scroll-proportion="-16.708334" vertical-offset="724" max-vertical-offset="1245" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/_restaurant.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="0" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1770">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/wdr_tool.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="102" selection-end="102" vertical-scroll-proportion="-2.7551022" vertical-offset="0" max-vertical-offset="1410">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_onepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="903" column="37" selection-start="44073" selection-end="44073" vertical-scroll-proportion="0.0" vertical-offset="13545" max-vertical-offset="14310">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/_home_onepage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="19" selection-start="2184" selection-end="2184" vertical-scroll-proportion="4.6734695" vertical-offset="2164" max-vertical-offset="9975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/_comment.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="14" selection-start="915" selection-end="915" vertical-scroll-proportion="-7.632653" vertical-offset="496" max-vertical-offset="1770">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="0" selection-start="6017" selection-end="6017" vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="795">
-          <folding>
-            <element signature="tag#div#1;tag#div#0" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#4;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/_rwd.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="526" column="0" selection-start="10323" selection-end="10350" vertical-scroll-proportion="-3.510204" vertical-offset="7718" max-vertical-offset="27630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="91" selection-start="3629" selection-end="3629" vertical-scroll-proportion="-24.375" vertical-offset="180" max-vertical-offset="1290">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_reset.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="21" selection-start="1289" selection-end="1289" vertical-scroll-proportion="-9.979591" vertical-offset="591" max-vertical-offset="1215">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/components/sass/_news.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="69" selection-end="69" vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="2280">
-          <folding />
-        </state>
+        <state line="72" column="21" selection-start="1289" selection-end="1289" vertical-scroll-proportion="-9.979591" vertical-offset="591" max-vertical-offset="1215" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_slidingmenu.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="1" selection-start="1337" selection-end="1530" vertical-scroll-proportion="-6.122449" vertical-offset="615" max-vertical-offset="2580">
+        <state line="61" column="1" selection-start="1337" selection-end="1530" vertical-scroll-proportion="-6.122449" vertical-offset="615" max-vertical-offset="2580" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="68" selection-start="3121" selection-end="3121" vertical-scroll-proportion="-33.125" vertical-offset="540" max-vertical-offset="1665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="27" selection-start="2838" selection-end="2838" vertical-scroll-proportion="-17.041666" vertical-offset="701" max-vertical-offset="1260">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="30" selection-end="30" vertical-scroll-proportion="10.0" vertical-offset="255" max-vertical-offset="2790">
-          <folding>
-            <element signature="tag#article#1;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#article#2;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#4;tag#div#1;tag#div#0;tag#div#0" expanded="false" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="215" column="0" selection-start="7858" selection-end="7858" vertical-scroll-proportion="-13.625" vertical-offset="423" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/room.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="3900">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travel_image.php">
+    <entry file="file://$PROJECT_DIR$/restaurant.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="68" selection-start="3121" selection-end="3121" vertical-scroll-proportion="-33.125" vertical-offset="540" max-vertical-offset="1665">
+        <state line="101" column="26" selection-start="3710" selection-end="3710" vertical-scroll-proportion="0.0" vertical-offset="1515" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/_room.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="15" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2985">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/components/sass/_travel.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="8" selection-start="909" selection-end="909" vertical-scroll-proportion="0.5770677" vertical-offset="638" max-vertical-offset="1980">
+        <state line="107" column="7" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.0" vertical-offset="1605" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/_news.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="2392" selection-end="2644" vertical-scroll-proportion="0.0" vertical-offset="1771" max-vertical-offset="2280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="-3.75" vertical-offset="195" max-vertical-offset="2625">
+          <folding>
+            <marker date="1439003568000" expanded="false" signature="76:94" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="95:6026" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="126:505" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="244:284" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="319:446" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="522:813" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="544:790" placeholder="{...}" />
+            <marker date="1439003568000" expanded="true" signature="586:778" placeholder="{...}" />
+            <marker date="1439003568000" expanded="true" signature="631:764" placeholder="{...}" />
+            <marker date="1439003568000" expanded="true" signature="676:745" placeholder="{&quot;itemSelector&quot;: '.item'...}" />
+            <marker date="1439003568000" expanded="true" signature="851:6014" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="882:2095" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="924:2076" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="1076:1337" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="1361:1817" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="1858:2053" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2127:2770" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2169:2751" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2193:2389" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2533:2728" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2802:3552" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2844:3533" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="2868:3171" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="3315:3510" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="3585:4798" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="3627:4779" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="3779:4040" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="4064:4520" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="4561:4756" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="4830:5998" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="4872:5979" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="4896:5296" placeholder="..." />
+            <marker date="1439003568000" expanded="false" signature="5360:5375" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="5376:5721" placeholder="..." />
+            <marker date="1439003568000" expanded="true" signature="5761:5956" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/_comment.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/sass/_restaurant.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="1939" selection-end="1939" vertical-scroll-proportion="-3.857143" vertical-offset="1686" max-vertical-offset="2220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/components/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="32" selection-start="2785" selection-end="2785" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/weather_api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="23" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_onepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="25" selection-start="4727" selection-end="4727" vertical-scroll-proportion="0.24193548" vertical-offset="1425" max-vertical-offset="14310">
           <folding />
         </state>
       </provider>

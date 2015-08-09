@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-md-8">
 
-            <article class="blog-post">
+            <article class="blog-post tl">
                 <div class="row">
                     <div class="col-sm-3 col-xs-4">
 
@@ -36,7 +36,7 @@
 
 
 
-            <article class="blog-post">
+            <article class="blog-post tl">
                 <div class="row">
                     <div class="col-sm-3 col-xs-4">
 
@@ -64,7 +64,7 @@
 
 
 
-            <article class="blog-post">
+            <article class="blog-post tl">
                 <div class="row">
                     <div class="col-sm-3 col-xs-4">
 
@@ -90,7 +90,7 @@
             </article>
 
 
-            <article class="blog-post">
+            <article class="blog-post tl">
                 <div class="row">
                     <div class="col-sm-3 col-xs-4">
 
@@ -118,7 +118,7 @@
             </article>
 
 
-            <article class="blog-post">
+            <article class="blog-post tl">
                 <div class="row">
                     <div class="col-sm-3 col-xs-4">
 
@@ -164,7 +164,7 @@
 
 
 
-            <div id="recent-posts" class="widget">
+            <div id="recent-posts" class="widget tl">
                 <h4 class="sub-heading"><span class="highlight-txt">分類</span></h4>
 
                 <ul>
@@ -190,7 +190,7 @@
             </div>
 
 
-            <div id="recent-posts" class="widget">
+            <div id="recent-posts" class="widget tl">
                 <h4 class="sub-heading"><span class="highlight-txt">近期訊息</span></h4>
 
                 <ul>
@@ -214,7 +214,7 @@
 
 
 
-            <div id="recent-posts" class="widget">
+            <div id="recent-posts" class="widget tl">
                 <h4 class="sub-heading"><span class="highlight-txt">影片</span></h4>
                 <div>
                     <iframe style="min-height:215px;width: 100%;" width="100%" height="auto" src="https://www.youtube.com/embed/rbyVJlSu1XI" frameborder="0" allowfullscreen></iframe>

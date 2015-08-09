@@ -101,7 +101,7 @@ include "header.php"
 
 
 
-    <section class="inner-section thumb-carousel-wrap clearfix">
+    <section class="hide inner-section thumb-carousel-wrap clearfix">
         <div class="owl-carousel dignity-showcase wl-theme" >
             <div class="item  animated activate bounceInUp" data-fx="bounceInUp">
                 <a class="image-lightbox-link" href="http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/full1.jpg">

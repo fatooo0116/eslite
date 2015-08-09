@@ -72,6 +72,7 @@
 <script src="js/header_nav.js"></script>
 <script src="js/jquery.parallax.min.js"></script>
 <script src="js/section_h.js"></script>
+<script src="js/weather_api.js"></script>
 <script src="js/script.js"></script>
 
 </body>
