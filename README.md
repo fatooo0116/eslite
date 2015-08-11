@@ -32,7 +32,7 @@
 
 
 ### 6. Home OnePage Page
-* 用JS把連結換掉
+* 用JS把連結換掉 用於 section 的定位點
 
 
 
