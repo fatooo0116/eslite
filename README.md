@@ -28,7 +28,12 @@
 
 
 ### 5.RWD Refine
-* home top img use randomly delay fadein wow.js
+* home top img use randomly delay fadein animate.css
+
+
+### 6. Home OnePage Page
+* 用JS把連結換掉
+
 
 
 ## Js Tools
