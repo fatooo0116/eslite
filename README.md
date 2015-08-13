@@ -50,5 +50,14 @@ DEMO版型：http://designova.net/themes/wordpress/dignity/
 我們用的首頁是
 Home 04 / Teal Green Accent / Split Layout with BG Image Slider(alider to right)
 http://designova.net/themes/wordpress/dignity/home_style_04/
+
+http://wdr.tw/eslite/home_onepage.php
+http://wdr.tw/eslite//room.php
+http://wdr.tw/eslite/restaurant.php
+http://wdr.tw/eslite/news.php
+http://wdr.tw/eslite/travel_image.php
+http://wdr.tw/eslite/comment.php
+
+
 ```
 
