@@ -4,7 +4,7 @@ include "header.php"
 
 
 <div class="container"  id="travel" style="min-height: 800px;">
-        <div class="es_title">
+        <div class="es_title web-cht">
             <h2  class="tc">迴響記憶</h2>
             <div class="title_sep"></div>
             <div class="subtitle tc">
@@ -21,7 +21,7 @@ include "header.php"
 
 
 
-        <div class="row  travel_thumbnail">
+        <div class="row  travel_thumbnail web-cht">
             <div class="col-sm-4 col-xs-12"><a href="#">
                     <img src="images/travel/t1.jpg" alt=""/>
                     <div class="subtitle">攜家帶眷，共譜暑期的宛轉章節</div>

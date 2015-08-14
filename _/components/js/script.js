@@ -158,5 +158,14 @@
         $("#home_bkimg .wdr_bkimg").parallax("50%", 0.4);
 
 
+
+        var today = new Date();
+        var yyyy = today.getFullYear();
+        var t = " © "+yyyy+" All rights reserved.";
+        console.log(t);
+        $("footer .credits").text(t);
+
     });
 })(jQuery);
+
+

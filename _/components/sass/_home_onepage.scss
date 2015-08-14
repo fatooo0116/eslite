@@ -115,7 +115,7 @@
 
 
         .wdr_bkimg{
-          background:url(../images/onepage/bookwall4.jpg) no-repeat center fixed;
+          background:url(../images/onepage/bookwall4.jpg) no-repeat top fixed;
           height:auto;
           position: relative;
           background-size: cover;
@@ -181,6 +181,7 @@
                       color:#a39a93;
                       font-size: 18px;
                       text-align: center;
+                      margin-top:20px;
                     }
                   }
             .nav-tabs{
@@ -267,14 +268,14 @@
         h3{
           font-size:14px;
           color:#fff;
-          text-shadow: 0 1px 3px #333;
+
           margin-top:15px;
         }
 
         a.item{
 
           display: block;
-          border: 5px solid #a39a93;
+          border: 5px solid #fff;
           height: 80px;
           width: 80px;
           border-radius: 100%;
@@ -282,7 +283,7 @@
           vertical-align: middle;
           text-align: center;
           margin: 0 auto;
-          box-shadow: 0 1px 1px #444;
+
 
 
           -webkit-transition: all .1s linear;
@@ -293,14 +294,14 @@
 
 
           i{
-            color:#a39a93;
+            color:#fff;
             font-size:40px;
             -webkit-transition: all .1s linear;
             -moz-transition: all .1s linear;
             -ms-transition: all .1s linear;
             -o-transition: all .1s linear;
             transition: all .1s linear;
-            text-shadow: 0 1px 1px #333;
+
           }
         }
         a.item:hover{
@@ -490,7 +491,7 @@
               vertical-align: middle;
               text-align: center;
               margin: 0 auto;
-              box-shadow: 0 1px 1px #444;
+
 
 
               -webkit-transition: all .1s linear;
@@ -508,7 +509,7 @@
                 -ms-transition: all .1s linear;
                 -o-transition: all .1s linear;
                 transition: all .1s linear;
-                text-shadow: 0 1px 1px #333;
+
               }
             }
           }
@@ -536,7 +537,7 @@
 
         .desc{
           padding:70px 0  50px;
-          background: rgba(255,255,255,.7);
+          background: rgba(0,0,0,.7);
           height: 100%;
         }
       }
@@ -554,18 +555,20 @@
       .slide{
 
         h3 {
-          color:#000;
+          color:#fff;
           font-size: 14px;
         }
-
+        .floor{ color:#fff;}
         .sep_red_l{margin:10px auto 20px;}
         .subtitle{
           line-height: 1.7em;
           letter-spacing: 2px;
           margin-bottom: 20px;
+          color:#fff;
         }
         .date{
           letter-spacing: 2px;
+          color:#fff;
         }
         img{
           width:auto;
@@ -594,6 +597,7 @@
             left:0;
             width:100%;
             position: absolute;
+            background-size:cover;
         }
     }
 

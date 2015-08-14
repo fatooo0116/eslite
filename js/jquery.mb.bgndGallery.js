@@ -942,11 +942,11 @@ jQuery.mbBgndGallery.effects = {
 
 	zoom: {
 		enter: {
-			scale: ( 1 + Math.random() * 5 ),
-			opacity: 0
+			scale: ( 1.2 ),
+			opacity: 0.5
 		},
 		exit: {
-			scale: ( 1 + Math.random() * 5 ),
+			scale: ( 1  ),
 			opacity: 0
 		},
 		enterTiming: "cubic-bezier(0.19, 1, 0.22, 1)",
@@ -962,7 +962,7 @@ jQuery.mbBgndGallery.effects = {
 		exit: {
 			opacity: 0,
 			blur: 10,
-			scale: 2
+			scale: 1
 		},
 		enterTiming: "cubic-bezier(0.19, 1, 0.22, 1)",
 		exitTiming: "cubic-bezier(0.19, 1, 0.22, 1)"

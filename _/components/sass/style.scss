@@ -13,6 +13,10 @@
 @import "travel";
 @import "comment";
 @import "rwd";
+@import "portfolio";
+
+@import "icon";
+
 
 body{
   overflow-x: hidden;
@@ -40,4 +44,8 @@ body{
 
 }
 
+
+section.inner-section{
+  padding:0 !important;
+}
 

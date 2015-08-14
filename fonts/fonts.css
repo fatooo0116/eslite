@@ -13,6 +13,70 @@
 /* Source: Google Web Fonts Library */
 /* License Type: GPL */
 /*--------------------------------------------------------*/
+
+@font-face{ 
+font-family:"AGaramondRegular";
+src: url('AGaramondPro-Regular/AGaramondPro-Regular.eot'); 
+src: 
+url('AGaramondPro-Regular/AGaramondPro-Regular.woff') format('woff'), 
+url('AGaramondPro-Regular/AGaramondPro-Regular.eot?#iefix') format('embedded-opentype'), 
+url('AGaramondPro-Regular/AGaramondPro-Regular.ttf') format('truetype'), 
+url('AGaramondPro-Regular/AGaramondPro-Regular.svg#webfont') format('svg'); 
+}
+
+.ag_regular{
+	font-family:"AGaramondRegular";
+}
+
+@font-face{ 
+font-family:"AGaramondBold";
+src: url('AGaramondPro-Bold/AGaramondPro-Bold.eot'); 
+src: 
+url('AGaramondPro-Bold/AGaramondPro-Bold.woff') format('woff'), 
+url('AGaramondPro-Bold/AGaramondPro-Bold.eot?#iefix') format('embedded-opentype'), 
+url('AGaramondPro-Bold/AGaramondPro-Bold.ttf') format('truetype'), 
+url('AGaramondPro-Bold/AGaramondPro-Bold.svg#webfont') format('svg'); 
+}
+
+
+.ag_bold{
+	font-family:"AGaramondBold";
+}
+
+
+@font-face{ 
+font-family:"AGaramonditalic";
+src: url('AGaramondPro-italic/adobe_garamond_italic-webfont.eot'); 
+src: 
+url('AGaramondPro-italic/adobe_garamond_italic-webfont.woff') format('woff'), 
+url('AGaramondPro-italic/adobe_garamond_italic-webfont.eot?#iefix') format('embedded-opentype'), 
+url('AGaramondPro-italic/adobe_garamond_italic-webfont.ttf') format('truetype'), 
+url('AGaramondPro-italic/adobe_garamond_italic-webfont.svg#webfont') format('svg'); 
+}
+
+
+.ag_italic{
+	font-family:"AGaramonditalic";
+}
+
+
+
+@font-face{ 
+font-family:"AGaramondsemiBold";
+src: url('AGaramondPro-semiBold/AGaramondPro-Bold.eot'); 
+src: 
+url('AGaramondPro-semiBold/adobe_garamond_semibold_regular-webfont.woff') format('woff'), 
+url('AGaramondPro-semiBold/adobe_garamond_semibold_regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('AGaramondPro-semiBold/adobe_garamond_semibold_regular-webfont.ttf') format('truetype'), 
+url('AGaramondPro-semiBold/adobe_garamond_semibold_regular-webfont.svg#webfont') format('svg'); 
+}
+
+
+.ag_semibold{
+	font-family:"AGaramondsemiBold";
+}
+
+/*
 @font-face{ 
 font-family:"OpenSansRegular";
 src: url('OpenSans/OpenSans-Regular-webfont.eot'); 
@@ -62,12 +126,15 @@ url('OpenSans/OpenSans-LightItalic-webfont.woff') format('woff'),
 url('OpenSans/OpenSans-LightItalic-webfont.ttf') format('truetype'), 
 url('OpenSans/OpenSans-LightItalic-webfont.svg#webfont') format('svg'); 
 }
+*/
 
 /*--------------------------------------------------------*/
 /* Font: Nexa Free Family */
 /* Source: Fontfabric */
 /* License Type: GPL */
 /*--------------------------------------------------------*/
+
+/*
 @font-face{ 
 font-family:"NexaBold";
 src: url('Nexa/nexa_bold-webfont.eot'); 
@@ -87,4 +154,7 @@ url('Nexa/nexa_light-webfont.eot?#iefix') format('embedded-opentype'),
 url('Nexa/nexa_light-webfont.ttf') format('truetype'), 
 url('Nexa/nexa_light-webfont.svg#webfont') format('svg'); 
 }
+*/
+
+
 

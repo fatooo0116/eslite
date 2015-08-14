@@ -29,7 +29,8 @@
    <!--  <link rel="stylesheet" href="js/owl-carousel/owl.carousel.css"/> -->
      <link rel="stylesheet" href="js/owl-carousel-v1/owl.carousel.css"/>
     <link rel="stylesheet" href="js/lightbox2-master/dist/css/lightbox.css"/>
-
+    <link rel="stylesheet" href="fonts/fonts.css"/>
+    <script type='text/javascript' src='//font.arphic.com/FontSubsetOutput/2015060100050/31750C3275C7D1453C4CC5D243914B7A/2015060100050.JS?9215302948'></script>
     <script src="js/jquery.js"></script>
 </head>
 
@@ -39,13 +40,13 @@
 
     <nav class="menu" id="sm">
         <div class="sm-wrap">
-            <h1 class="sm-logo">誠品行旅</h1>
+            <h1 class="sm-logo web-cht">誠品行旅</h1>
             <i class="icon-remove menu-close"></i>
-            <div id="dignity-sliding-navi" class="clearfix dignity-sliding-nav  front-page">
-                <a href="#" class="scroll is_onepage" data-soffset="0">關於行旅</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">城市遊藝</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">客房居所</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">料理飲宴</a>
+            <div id="dignity-sliding-navi" class="clearfix dignity-sliding-nav  front-page web-cht">
+                <a href="#home_tab"  class="scroll" data-soffset="0">關於行旅</a>
+                <a href="#wdr_isotope" class="scroll" data-soffset="0">城市遊藝</a>
+                <a href="#home_room" class="scroll" data-soffset="0">客房居所</a>
+                <a href="#home_restaurant" class="scroll is_onepage" data-soffset="0">料理飲宴</a>
                 <a href="#" class="scroll is_onepage" data-soffset="0">優惠精選</a>
                 <a href="#" class="scroll is_onepage" data-soffset="0">迴響記憶</a>
                 <a href="#" class="scroll is_onepage" data-soffset="0">部落格</a>

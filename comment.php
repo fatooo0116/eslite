@@ -5,13 +5,13 @@ include "header.php"
 
 <div class="container"  id="comment" style="min-height: 800px;">
         <div class="es_title">
-            <h2  class="tc">迴響記憶</h2>
+            <h2  class="tc web-cht">迴響記憶</h2>
             <div class="title_sep"></div>
-            <div class="subtitle tc">
+            <div class="subtitle tc web-cht">
                 旅人蹤跡
             </div>
 
-            <div class="desc tc">
+            <div class="desc tc web-cht">
                 以空間作為聚合的平台，人們在此談話、相會、入住，<br/>
                 經過的人也許留下紀錄，美好的食物為一天補充能量，集結文字與照片，記憶在此發生的迴響與可能。
             </div>
@@ -36,7 +36,7 @@ include "header.php"
 
         <div class="row  comments">
             <div class="item">
-                <div class="comment_box">
+                <div class="comment_box web-cht">
                     <h3>松菸誠品行旅 呈現感謝母親的真心誠意</h3>
                     <div><img src="images/travel/masonry_03.jpg" alt=""/></div>
                     <p>「之間 In Between Steakhouse」餐廳 　
@@ -65,7 +65,7 @@ include "header.php"
             </div>
 
             <div class="item">
-                <div class="comment_box">
+                <div class="comment_box web-cht">
                     <p>
                     好服務、環境（氛圍），令人喜歡，整體軟硬設施對住戶十分
                     友善。原價可能相對較昂貴。早餐提供的餐點非常精緻、大落
@@ -83,7 +83,7 @@ include "header.php"
             </div>
 
             <div class="item">
-                <div class="comment_box">
+                <div class="comment_box web-cht">
                     <p>
                         外觀看起來就像一般五星級商務酒店，不過也許誠品的品牌是 很大的賣點，一進lobby就有一整大面的書牆可以隨住戶觀看， 飲料也是免費的
                         好服務、環境（氛圍），令人喜歡，整體軟硬設施對住戶十分
@@ -103,7 +103,7 @@ include "header.php"
 
 
             <div class="item">
-                <div class="comment_box">
+                <div class="comment_box web-cht">
                     <h3>松菸誠品行旅 呈現感謝母親的真心誠意</h3>
                     <div><img src="images/travel/masonry_03.jpg" alt=""/></div>
                     <p>「之間 In Between Steakhouse」餐廳 　
@@ -132,7 +132,7 @@ include "header.php"
             </div>
 
             <div class="item">
-                <div class="comment_box">
+                <div class="comment_box web-cht">
                     <p>外觀看起來就像一般五星級商務酒店，不過也許誠品的品牌是
                         很大的賣點，一進lobby就有一整大面的書牆可以隨住戶觀看，
                         飲料也是免費的，有營造出書香氣息的感覺，也許是還在試營

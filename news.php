@@ -18,18 +18,18 @@
                         </div>
                     </div>
                     <div class="col-sm-7 col-xs-8 tl">
-                        <h3 class="main-heading"><a href="#">【專程，創玩藝】手作體驗專案</a></h3>
+                        <h3 class="main-heading web-cht"><a href="#">【專程，創玩藝】手作體驗專案</a></h3>
                         <div class="bolg-meta">
                             <span class="date">2015-06-20</span>
-                            <span class="date">旅程限定</span>
+                            <span class="cate web-cht"><a href="news_c1.php">旅程限定</a></span>
                         </div>
-                        <div class="summary">
+                        <div class="summary web-cht">
                             三天二夜 | 二天一夜 優惠<br/>
 
                             設計的實演基地，工藝的摩娑試驗；<br/>
                             誠品行旅，一個讓人躍躍欲試的地方。
                         </div>
-                        <a class="more " href="#">深入閱讀</a>
+                        <a class="more web-cht" href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
@@ -47,17 +47,17 @@
                         </div>
                     </div>
                     <div class="col-sm-7 col-xs-8 tl">
-                        <h3 class="main-heading">整裝待發</h3>
+                        <h3 class="main-heading web-cht"><a href="#">整裝待發</a></h3>
                         <div class="bolg-meta">
-                            <span class="date">2015 / 06 / 20</span>
-                            <span class="date">優惠精選,旅程限定</span>
+                            <span class="date ">2015 / 06 / 20</span>
+                            <span class="cate web-cht"><a href="news_c2.php">優惠精選</a> , <a href="news_c1.php">旅程限定</a></span>
                         </div>
-                        <div class="summary">
+                        <div class="summary web-cht">
                             【穿說，城內城外世】<br/>
                             歷史生態的爬梳探勘<br/>
                             藝文渠道的親臨拓寬
                         </div>
-                        <a class="more " href="#">深入閱讀</a>
+                        <a class="more web-cht" href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
@@ -75,16 +75,16 @@
                         </div>
                     </div>
                     <div class="col-sm-7 col-xs-8 tl">
-                        <h3 class="main-heading"><a href="#">【In Between Steakhouse 信用卡優惠】</a></h3>
+                        <h3 class="main-heading web-cht"><a href="#">【In Between Steakhouse 信用卡優惠】</a></h3>
                         <div class="bolg-meta">
                             <span class="date">2015-06-08</span>
-                            <span class="date">美饌佳餚</span>
+                            <span class="cate web-cht"><a href="news_c3.php">美饌佳餚</a></span>
                         </div>
-                        <div class="summary">
+                        <div class="summary web-cht">
                             持中信、富邦、花旗限定卡別信用卡用餐享五折起優惠<br/>
                             活動期間：104/07/17 至 2015/09/30
                         </div>
-                        <a class="more " href="#">深入閱讀</a>
+                        <a class="more web-cht" href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
@@ -101,18 +101,18 @@
                         </div>
                     </div>
                     <div class="col-sm-7 col-xs-8 tl">
-                        <h3 class="main-heading"><a href="#">【Chef Table Menu】紀念的回甘款待</a></h3>
+                        <h3 class="main-heading web-cht"><a href="#">【Chef Table Menu】紀念的回甘款待</a></h3>
                         <div class="bolg-meta">
                             <span class="date">2015-06-01</span>
-                            <span class="date">美饌佳餚</span>
+                            <span class="cate web-cht"><a href="news_c3.php">美饌佳餚</a></span>
                         </div>
-                        <div class="summary">
+                        <div class="summary web-cht">
                             花瓣簇擁，主廚精選，<br/>
                             瓊漿玉液，款待切切。<br/>
                             讓每段紀念日都念念不忘，<br/>
                             讓每一口都回甘生香。
                         </div>
-                        <a class="more " href="#">深入閱讀</a>
+                        <a class="more web-cht" href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
@@ -129,18 +129,18 @@
                         </div>
                     </div>
                     <div class="col-sm-7 col-xs-8 tl">
-                        <h3 class="main-heading"><a href="#">【精選開胃沙拉吧】向晚的異國食尚</a></h3>
+                        <h3 class="main-heading web-cht"><a href="#">【精選開胃沙拉吧】向晚的異國食尚</a></h3>
                         <div class="bolg-meta">
-                            <span class="date">2015-05-30</span>
-                            <span class="date">美饌佳餚</span>
+                            <span class="date ">2015-05-30</span>
+                            <span class="cate web-cht"><a href="news_c3.php">美饌佳餚</a></span>
                         </div>
-                        <div class="summary">
+                        <div class="summary web-cht">
                             料理的多彩熱情、婉約細膩，<br/>
                             味蕾的層層探險、遠渡重洋。<br/>
                             向晚的夜色與異國風情相伴，<br/>
                             濃縮成馥郁的美好。
                         </div>
-                        <a class="more " href="#">深入閱讀</a>
+                        <a class="more web-cht" href="#">深入閱讀</a>
                     </div>
                 </div>
             </article>
@@ -155,7 +155,7 @@
                     <div>
                         <label class="screen-reader-text" for="s">搜尋關於：</label>
                         <input type="text" value="" name="s" id="s">
-                        <input type="submit" id="searchsubmit" value="搜尋">
+                        <input type="submit web-cht" id="searchsubmit" value="搜尋">
                     </div>
                 </form>
             </div>
@@ -164,7 +164,7 @@
 
 
 
-            <div id="recent-posts" class="widget tl">
+            <div id="recent-posts" class="widget tl web-cht">
                 <h4 class="sub-heading"><span class="highlight-txt">分類</span></h4>
 
                 <ul>
@@ -190,7 +190,7 @@
             </div>
 
 
-            <div id="recent-posts" class="widget tl">
+            <div id="recent-posts" class="widget tl web-cht">
                 <h4 class="sub-heading"><span class="highlight-txt">近期訊息</span></h4>
 
                 <ul>
@@ -214,7 +214,7 @@
 
 
 
-            <div id="recent-posts" class="widget tl">
+            <div id="recent-posts" class="widget tl web-cht">
                 <h4 class="sub-heading"><span class="highlight-txt">影片</span></h4>
                 <div>
                     <iframe style="min-height:215px;width: 100%;" width="100%" height="auto" src="https://www.youtube.com/embed/rbyVJlSu1XI" frameborder="0" allowfullscreen></iframe>

@@ -5,9 +5,9 @@ include "header.php"
 
 <div id="room" style="min-height: 800px;">
     <div class="es_title">
-        <h2  class="tc">經典客房</h2>
+        <h2  class="tc web-cht">經典客房</h2>
         <div class="title_sep"></div>
-        <div class="desc  tc">
+        <div class="desc  tc web-cht">
             大片落地窗，讓城市盡入眼底，陽台收摟這座城市的日夜動靜,吐納13坪的寧靜素雅。<br/>
             市景限定房型分為兩小床或一大床皆附42吋高畫質電視，DVD播放機Bose音響設備光纖上網<br/>
             Cassina設計皮椅，迷你酒吧，貼心Nespresso咖啡機，加上雜誌區享受閱讀好時光。<br/>
@@ -38,57 +38,67 @@ include "header.php"
 
     <section class="container">
     <div class="room_equip">
-        <div class="row">
+        <div class="row ag_regular">
             <div class="col-sm-4 item">
                 <i class="fa fa-heartbeat"></i>Fitness Center
             </div>
-            <div class="col-sm-4 col-xs-6 item"><i class="fa fa-glass"></i>Free Welcome Drink</div>
-            <div class="col-sm-4 col-xs-6 item"><i class="fa fa-coffee"></i>Capsule coffee</div>
-
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i><i class="fa fa-television"></i>HDTV
-            </div>
-            <div class="col-sm-4 col-xs-6 item"><i class="fa fa-heartbeat"></i>Private Bathroom</div>
-            <div class="col-sm-4 col-xs-6 item"><i class="fa fa-heartbeat"></i>Electronic in-room safe</div>
-
-            <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Room Service
+                <i class="fa fa-glass"></i>Free Welcome Drink
             </div>
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Bacony(Except 3F)
-            </div>
-            <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Free Parking
+                <i class="fa fa-coffee"></i>Capsule coffee
             </div>
 
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Free Newspaper
-            </div>
-            <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Free WiFi
-            </div>
-            <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Bose speakers surround sound
+                <span class="icon-wide_screen_LCD_TV"></span>HDTV
             </div>
 
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Satellite TV Service
-            </div>
-            <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Complimentary Drinking Water
-            </div>
-            <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Hair Dryer
+                <span class="icon-bathroom"></span>Private Bathroom
             </div>
 
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>Wide screen LCD TV
+                <span class="icon-electronic_in-room_safe"></span>Electronic in-room safe
+            </div>
+
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-room_service"></span>Room Service
             </div>
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>DVD player
+                <span class="icon-bacony_except_3F"></span>Bacony(Except 3F)
             </div>
             <div class="col-sm-4 col-xs-6 item">
-                <i class="fa fa-heartbeat"></i>I Phone Docking Station
+                <span class="icon-free_parking"></span>Free Parking
+            </div>
+
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-news"></span>Free Newspaper
+            </div>
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-connection"></span>Free WiFi
+            </div>
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-bose"></span>Bose speakers surround sound
+            </div>
+
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-satellite_TV_service"></span> atellite TV Service
+            </div>
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-drinking_water"></span>Complimentary Drinking Water
+            </div>
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-hair_dryer"></span>Hair Dryer
+            </div>
+
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-display"></span>Wide screen LCD TV
+            </div>
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-DVD_player"></span>DVD player
+            </div>
+            <div class="col-sm-4 col-xs-6 item">
+                <span class="icon-i_phone_docking_station"></span> IPhone Docking Station
             </div>
         </div>
     </div>
@@ -144,7 +154,7 @@ include "header.php"
             }
             .tab-content{
                 float:left;
-                padding:15px ;
+                padding:15px 15px 15px 40px ;
                 min-height: 213px;
                 border:1px solid #ddd;
                 width: 80%;
@@ -155,7 +165,7 @@ include "header.php"
             <div clas="row">
             <div class="room_tab">
             <div class="tabbable tabs-left  clear">
-                <ul class="nav nav-tabs">
+                <ul class="nav nav-tabs web-cht">
                     <li class="active"><a href="#a" data-toggle="tab">基本資訊</a></li>
                     <li ><a href="#b" data-toggle="tab">生活機能</a></li>
                     <li><a href="#c" data-toggle="tab">衛浴設備</a></li>
@@ -185,25 +195,25 @@ include "header.php"
             <div class="col-sm-2 col-xs-6 col-sm-offset-2 tc">
                 <div class="item_outter">
                     <a href="#" class="item" ><i class="fa fa-video-camera"></i></a>
-                    <h3>旅人印象</h3>
+                    <h3 class="web-cht" >旅人印象</h3>
                 </div>
             </div>
             <div class="col-sm-2 col-xs-6 tc">
                 <div class="item_outter">
                     <a href="#" class="item" ><i class="fa fa-camera"></i></a>
-                    <h3>旅人蹤跡</h3>
+                    <h3 class="web-cht">旅人蹤跡</h3>
                 </div>
             </div>
             <div class="col-sm-2 col-xs-6 tc">
                 <div class="item_outter">
                     <a href="#" class="item" ><i class="fa fa-bullhorn"></i></a>
-                    <h3>優惠精選</h3>
+                    <h3 class="web-cht">優惠精選</h3>
                 </div>
             </div>
             <div class="col-sm-2 col-xs-6 tc">
                 <div class="item_outter">
                     <a href="#" class="item" ><i class="fa fa-calendar"></i></a>
-                    <h3>線上訂房</h3>
+                    <h3 class="web-cht">線上訂房</h3>
                 </div>
             </div>
         </div>
@@ -214,34 +224,34 @@ include "header.php"
     <div class="room_related">
         <div id="wdr_owl-room" class="wdr_owl_carousel">
             <div>
-                <h3>雅緻客房</h3>
+                <h3 class="web-cht">雅緻客房</h3>
                 <a href="#"><img src="images/sroom1.png"></a>
-                <a href="#" class="more">了解更多</a>
+                <a href="#" class="more web-cht">了解更多</a>
             </div>
             <div>
-                <h3>行政客房</h3>
+                <h3 class="web-cht">行政客房</h3>
                 <a href="#"><img src="images/sroom2.png"></a>
-                <a href="#" class="more">了解更多</a>
+                <a href="#" class="more web-cht">了解更多</a>
             </div>
             <div>
-                <h3>人文客房</h3>
+                <h3 class="web-cht">人文客房</h3>
                 <a href="#"><img src="images/sroom3.png"></a>
-                <a href="#" class="more">了解更多</a>
+                <a href="#" class="more web-cht">了解更多</a>
             </div>
             <div>
-                <h3>雅緻客房</h3>
+                <h3 class="web-cht">雅緻客房</h3>
                 <a href="#"><img src="images/sroom1.png"></a>
-                <a href="#" class="more">了解更多</a>
+                <a href="#" class="more web-cht">了解更多</a>
             </div>
             <div>
-                <h3>行政客房</h3>
+                <h3 class="web-cht">行政客房</h3>
                 <a href="#"><img src="images/sroom2.png"></a>
-                <a href="#" class="more">了解更多</a>
+                <a href="#" class="more web-cht">了解更多</a>
             </div>
             <div>
-                <h3>人文客房</h3>
+                <h3 class="web-cht">人文客房</h3>
                 <a href="#"><img src="images/sroom3.png"></a>
-                <a href="#" class="more">了解更多</a>
+                <a href="#" class="more web-cht">了解更多</a>
             </div>
         </div>
     </div>
