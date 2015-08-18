@@ -152,10 +152,11 @@
 
 
 
-        $("#home_activity .wdr_bkimg").parallax("50%", 0.4);
-        $("#home_textslider .wdr_bkimg").parallax("50%", 0.4);
-        $("#home_tab .wdr_bkimg").parallax("50%", 0.4);
-        $("#home_bkimg .wdr_bkimg").parallax("50%", 0.4);
+        $("#home_activity .wdr_bkimg").parallax("50%", 0.6);
+        $("#home_textslider .wdr_bkimg").parallax("50%", 0.6);
+        $("#home_tab .wdr_bkimg").parallax("50%", 0.6);
+        $("#home_bkimg .wdr_bkimg").parallax("80%", 0.6);
+
 
 
 

@@ -42,7 +42,7 @@
         <div class="sm-wrap">
             <h1 class="sm-logo web-cht">誠品行旅</h1>
             <i class="icon-remove menu-close"></i>
-            <div id="dignity-sliding-navi" class="clearfix dignity-sliding-nav  front-page web-cht">
+            <div id="dignity-sliding-navi" class="clearfix dignity-sliding-nav  front-page ">
                 <a href="#home_tab"  class="scroll" data-soffset="0">關於行旅</a>
                 <a href="#wdr_isotope" class="scroll" data-soffset="0">城市遊藝</a>
                 <a href="#home_room" class="scroll" data-soffset="0">客房居所</a>
@@ -62,7 +62,7 @@
 
     <!-- masthead : starts -->
     <header id="masthead" class="clearfix trans-header">
-        <h1 class="logo"><img src="images/logo.jpg" class="pull-right"></h1>
+        <h1 class="logo"><img src="images/header_logo.gif" class="pull-right header_logo"></h1>
     </header>
     <!-- masthead : ends -->
 

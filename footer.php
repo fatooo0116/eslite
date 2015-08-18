@@ -4,14 +4,14 @@
 <div class="footer">
     <div class=" container">
     <section class="row">
-        <div class="col-sm-6 web-cht">
+        <div class="col-sm-6 ">
             <div class="address">11072 台北市信義區菸廠路98號</div>
-            <div class="tel ag_regular">02-6626.2888</div>
+            <div class="tel ">02-6626.2888</div>
         </div>
         <div class="col-sm-6">
-            <div  class="weather pull-right ag_regular"><i class="fa fa-cloud"></i> 2015/04/05   28°C / 82°F</div>
+            <div  class="weather pull-right "><i class="fa fa-cloud"></i> 2015/04/05   28°C / 82°F</div>
             <div class="clear"></div>
-            <ul class="clear pull-right  lang web-cht">
+            <ul class="clear pull-right  lang ">
                 <li><a href="#">繁體中文</a></li>
                 <li><a href="#">簡體中文</a></li>
                 <li><a href="#" class="ad_regular">ENGLISH</a></li>

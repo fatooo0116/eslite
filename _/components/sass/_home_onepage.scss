@@ -1,4 +1,15 @@
+
+
 #home_onepage{
+
+  #wdr_isotope{
+    .es_title{
+      h2{
+        letter-spacing: 3px;
+      }
+    }
+  }
+
 
 
     section{
@@ -15,25 +26,48 @@
         padding-top:120px;
       }
 
-      ul.tools{
-        display:inline-block;
-        margin-right:5px;
-          li{
-            float:left;
-            margin-left:25px;
-            a{
-              border: 5px solid #a19a92 ;
-              height:50px;
-              width:50px;
-              display: table-cell;
-              vertical-align: middle;
-              border-radius: 100%;
-              text-align: center;
+      h3{
+        line-height: 1.5em;
+      }
 
-              i{
-                color:#a19a92;
-                font-size:25px;
+
+      div.tools{
+          display: inline-block;;
+          float:right;
+          width: 55%;
+          margin-bottom: 20px;
+
+        & > div{
+
+            padding: 0 10px 0 0;
+
+
+            a{
+                display: inline-block;
+              .outter{
+                border: 3px solid #a19a92 ;
+                height:40px;
+                width:40px;
+                display: table-cell;
+                vertical-align: middle;
+                border-radius: 100%;
+                text-align: center;
+
+                i,span{
+                  color:#a19a92;
+                  font-size:22px;
+                }
+                span.icon-clipboard105{
+                  margin-left:5px;
+                }
               }
+
+              .btn-text{
+                line-height: 20px;
+                padding: 10px 0 0 10px;
+                color: #a19a92;
+              }
+
             }
           }
       }
@@ -47,7 +81,7 @@
         }
         &.text-eng{
           font-size: 40px;
-          margin-bottom: 20px;
+          margin-bottom: 0px;
           span{
 
           }
@@ -65,7 +99,11 @@
             a{
               color:#000;
             }
+            a:hover{
+              opacity: 0.7;
+            }
           }
+
           li:before{
             content: " | ";
             padding: 0 2px 0 5px;
@@ -86,6 +124,10 @@
 
 
     #home_top{
+
+      .hlogo{
+        padding: 40px 0 20px;
+      }
       .slogan{
         margin-bottom: 50px;
         h3{
@@ -124,6 +166,7 @@
           .es_title{
             h2,.desc{
               color:#fff;
+              letter-spacing: 5px;
             }
           }
 
@@ -172,6 +215,11 @@
                       vertical-align: middle;
                       text-align: center;
 
+                      span{
+                        color:#a39a93;
+                        font-size:60px;
+                      }
+
                       i{
                         color:#a39a93;
                         font-size:60px;
@@ -199,11 +247,12 @@
         p{
           color:#fff;
           line-height: 1.8em;
-          margin-bottom: 0;
         }
 
         .about_text{
-          margin-bottom:20px;
+          p{
+            margin-bottom:1em;
+          }
         }
         .about_thumbnails{
           .col-xs-4{
@@ -259,6 +308,9 @@
       .es_title{
         color:#fff;
         margin-bottom: 50px;
+        h2{
+          letter-spacing: 5px;
+        }
       }
 
       .item_outter{
@@ -326,6 +378,12 @@
     */
     #home_restaurant{
       .dep_dotted{margin-bottom:40px;}
+
+      .es_title{
+        h2{
+          letter-spacing: 5px;
+        }
+      }
     }
 
     #wdr_homeslider{
@@ -428,6 +486,15 @@
   */
 
     #home_room{
+
+
+      .es_title{
+        h2{
+          letter-spacing: 5px;
+        }
+      }
+
+
       #room_accordion{
          max-width:980px;
           margin: 30px auto 50px;
@@ -437,6 +504,15 @@
           border-top:0px;
         }
         .panel:first-child{border-top:1px solid #ddd;}
+
+        .panel-heading{
+          a{
+            display:block;
+          }
+        }
+
+
+
         .panel-body{
           img{width:100%;}
 
@@ -615,6 +691,7 @@
          margin:0;
          font-size:36px;
          color:#fff;
+         letter-spacing: 5px;
        }
        .desc{
          font-size:20px;
@@ -623,6 +700,8 @@
          color:#9b9b9b;
        }
      }
+
+
 
 
      .contact_form{
@@ -661,4 +740,43 @@
 
 
    }
+}
+
+
+
+
+
+@media (max-width: 1600px){
+
+  #home_onepage{
+    #home{
+      div.tools{
+          width:60%;
+      }
+    }
+  }
+
+}
+
+@media (max-width: 1500px){
+
+  #home_onepage{
+    #home{
+      div.tools{
+        width:70%;
+      }
+    }
+  }
+}
+
+
+@media (max-width: 1300px){
+
+  #home_onepage{
+    #home{
+      div.tools{
+        width:88%;
+      }
+    }
+  }
 }
