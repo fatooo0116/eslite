@@ -128,6 +128,31 @@
   }
 
 
+
+
+  /*
+*   room_related
+*/
+  .room_related{
+    margin-bottom:70px;
+    .wdr_owl_carousel{
+      a,img{display:block;}
+      h3{font-size: 18px;margin-bottom:4px;}
+      a.more{
+        opacity: 0.6;
+        padding:5px 0;
+        font-size: 15px;
+      }
+      img{width:auto;}
+      a.more:hover{
+        opacity: 0.9;
+        text-decoration: none;
+      }
+    }
+
+  }
+
+
 }
 
 

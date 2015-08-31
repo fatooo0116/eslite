@@ -152,13 +152,18 @@
 
 
 
-        $("#home_activity .wdr_bkimg").parallax("50%", 0.6);
-        $("#home_textslider .wdr_bkimg").parallax("50%", 0.6);
-        $("#home_tab .wdr_bkimg").parallax("50%", 0.6);
-        $("#home_bkimg .wdr_bkimg").parallax("80%", 0.6);
 
 
 
+        imagesLoaded( '#page', function(){
+
+            console.log("load...");
+
+            $("#home_activity .wdr_bkimg").parallax("50%", 0.6);
+            $("#home_textslider .wdr_bkimg").parallax("50%", 0.6);
+            $("#home_tab .wdr_bkimg").parallax("50%", 0.6);
+            $("#home_bkimg .wdr_bkimg").parallax("50%", 0.6);
+        });
 
         var today = new Date();
         var yyyy = today.getFullYear();

@@ -218,6 +218,7 @@ nav a {
   width: 100%;
   position: fixed;
   top: 0;
+  left: 0;
   padding: 5px 15px;
   z-index: 9;
   -webkit-transition: all .4s ease-in-out;
@@ -539,7 +540,10 @@ nav a {
    */
   /*
    *   room_fun
-   */ }
+   */
+  /*
+*   room_related
+*/ }
   #restaurant .title_sep {
     background: #cb5237;
     margin: 20px auto 30px;
@@ -611,6 +615,22 @@ nav a {
         width: 83px; }
         #restaurant .room_fun .item_outter a.item:hover i {
           font-size: 43px; }
+  #restaurant .room_related {
+    margin-bottom: 70px; }
+    #restaurant .room_related .wdr_owl_carousel a, #restaurant .room_related .wdr_owl_carousel img {
+      display: block; }
+    #restaurant .room_related .wdr_owl_carousel h3 {
+      font-size: 18px;
+      margin-bottom: 4px; }
+    #restaurant .room_related .wdr_owl_carousel a.more {
+      opacity: 0.6;
+      padding: 5px 0;
+      font-size: 15px; }
+    #restaurant .room_related .wdr_owl_carousel img {
+      width: auto; }
+    #restaurant .room_related .wdr_owl_carousel a.more:hover {
+      opacity: 0.9;
+      text-decoration: none; }
 
 @media (max-width: 768px) {
   #restaurant .info-desc ul li {
@@ -955,7 +975,7 @@ footer {
     #home_onepage #home .vertical-center {
       padding-top: 120px; }
     #home_onepage #home h3 {
-      line-height: 1.5em; }
+      line-height: 1.2em; }
     #home_onepage #home div.tools {
       display: inline-block;
       float: right;
@@ -988,7 +1008,7 @@ footer {
       margin-bottom: 15px; }
     #home_onepage #home h3.text-eng {
       font-size: 40px;
-      margin-bottom: 0px; }
+      margin-bottom: 25px; }
     #home_onepage #home .home_bottom_left {
       position: absolute;
       bottom: 10px;
@@ -1327,13 +1347,12 @@ footer {
     height: 580px;
     width: 100%; }
     #home_onepage .wdr_bkimg_outter .wdr_bkimg {
-      background: url(../images/onepage/bk1.jpg) no-repeat center fixed;
-      background-size: cover;
+      background: url(../images/onepage/bk1.jpg) 50% 0 no-repeat fixed;
       height: 580px;
       left: 0;
       width: 100%;
-      position: absolute;
-      background-size: cover; }
+      overflow: hidden;
+      /* background-size:cover; */ }
   #home_onepage .contactus {
     background: #3e4042; }
     #home_onepage .contactus .es_title {

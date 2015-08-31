@@ -415,31 +415,19 @@ include "header.php"
             <div id='portfolio_thumbs'>
                 <ul id='grid' class='sortablePortfolio clearfix'>
                     <li class='mix s1 ' >
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item91'>
                             <img alt='dignissim enim nec' title='dignissim enim nec'  src='images/onepage/f1.jpg'/>
                         </a>
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item91'>
                             <div class='item_info'>
                                 <h3><span>dignissim enim nec</span></h3>
                                 <p><span>Image Slider</span></p>
                             </div>
                         </a>
-                        <div id='dignity-portfolio-item92' class='hidden'>
-                            <div class='row dignity-portfolio-item'>
-                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item92slider'  class='item_slider'>
-                                        <ul class='slides'>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide3.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide1.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide2.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                        </ul>
-                                    </div></article>
-                                <article class='col-md-5 text-left'>
-                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >Project With Responsive Slider</div><div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div><div class='row ' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum lacinia. Vivamus viverra dictum leo, et iaculis leo imperdiet nec. Pellentesque et nulla et nisi lacinia mollis. Nunc risus eros, rutrum id faucibus et, rhoncus et nulla. Fusce commodo libero eu ipsum cursus vel vestibulum elit varius.</div><div class='row add-top-small' ><nav class='cl-effect-10 btn-dignity-animated'><a data-hover='Live Preview' href='#' class='' ><span>Visit Website</span></a></nav></div>
-                                </article>
-                            </div>
-                        </div>
+
+
                     </li>
-                    <li class='mix s1 ' >
+                    <li class='mix s2 ' >
                         <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
                             <img alt='dignissim enim nec' title='dignissim enim nec'  src='images/onepage/f6.jpg'/>
                         </a>
@@ -449,104 +437,182 @@ include "header.php"
                                 <p><span>Image Slider</span></p>
                             </div>
                         </a>
-                        <div id='dignity-portfolio-item92' class='hidden'>
-                            <div class='row dignity-portfolio-item'>
-                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item92slider'  class='item_slider'>
-                                        <ul class='slides'>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide3.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide1.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide2.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                        </ul>
-                                    </div></article>
-                                <article class='col-md-5 text-left'>
-                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >Project With Responsive Slider</div><div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div><div class='row ' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum lacinia. Vivamus viverra dictum leo, et iaculis leo imperdiet nec. Pellentesque et nulla et nisi lacinia mollis. Nunc risus eros, rutrum id faucibus et, rhoncus et nulla. Fusce commodo libero eu ipsum cursus vel vestibulum elit varius.</div><div class='row add-top-small' ><nav class='cl-effect-10 btn-dignity-animated'><a data-hover='Live Preview' href='#' class='' ><span>Visit Website</span></a></nav></div>
-                                </article>
-                            </div>
-                        </div>
                     </li>
 
 
 
-                    <li class='mix s4' >
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                    <li class='mix s3' >
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item93'>
                             <img alt='dignissim enim nec' title='dignissim enim nec'  src='images/onepage/f4.jpg'/>
                         </a>
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item93'>
                             <div class='item_info'>
                                 <h3><span>dignissim enim nec</span></h3>
                                 <p><span>Image Slider</span></p>
                             </div>
                         </a>
-                        <div id='dignity-portfolio-item92' class='hidden'>
-                            <div class='row dignity-portfolio-item'>
-                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item92slider'  class='item_slider'>
-                                        <ul class='slides'>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide3.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide1.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide2.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                        </ul>
-                                    </div></article>
-                                <article class='col-md-5 text-left'>
-                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >Project With Responsive Slider</div><div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div><div class='row ' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum lacinia. Vivamus viverra dictum leo, et iaculis leo imperdiet nec. Pellentesque et nulla et nisi lacinia mollis. Nunc risus eros, rutrum id faucibus et, rhoncus et nulla. Fusce commodo libero eu ipsum cursus vel vestibulum elit varius.</div><div class='row add-top-small' ><nav class='cl-effect-10 btn-dignity-animated'><a data-hover='Live Preview' href='#' class='' ><span>Visit Website</span></a></nav></div>
-                                </article>
-                            </div>
-                        </div>
                     </li>
+
+
                     <li class='mix s5 ' >
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item94'>
                             <img alt='dignissim enim nec' title='dignissim enim nec'  src='images/onepage/f5.jpg'/>
                         </a>
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item94'>
                             <div class='item_info'>
                                 <h3><span>dignissim enim nec</span></h3>
                                 <p><span>Image Slider</span></p>
                             </div>
                         </a>
-                        <div id='dignity-portfolio-item92' class='hidden'>
-                            <div class='row dignity-portfolio-item'>
-                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item92slider'  class='item_slider'>
-                                        <ul class='slides'>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide3.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide1.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide2.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                        </ul>
-                                    </div></article>
-                                <article class='col-md-5 text-left'>
-                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >Project With Responsive Slider</div><div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div><div class='row ' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum lacinia. Vivamus viverra dictum leo, et iaculis leo imperdiet nec. Pellentesque et nulla et nisi lacinia mollis. Nunc risus eros, rutrum id faucibus et, rhoncus et nulla. Fusce commodo libero eu ipsum cursus vel vestibulum elit varius.</div><div class='row add-top-small' ><nav class='cl-effect-10 btn-dignity-animated'><a data-hover='Live Preview' href='#' class='' ><span>Visit Website</span></a></nav></div>
-                                </article>
-                            </div>
-                        </div>
                     </li>
 
 
 
 
-                    <li class='mix s3 ' >
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                    <li class='mix s4 ' >
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item95'>
                             <img alt='dignissim enim nec' title='dignissim enim nec'  src='images/onepage/f3.jpg'/>
                         </a>
-                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item92'>
+                        <a href='#' class='std-project' data-target-id='dignity-portfolio-item95'>
                             <div class='item_info'>
                                 <h3><span>dignissim enim nec</span></h3>
                                 <p><span>Image Slider</span></p>
                             </div>
                         </a>
-                        <div id='dignity-portfolio-item92' class='hidden'>
+                    </li>
+                </ul>
+
+
+
+
+
+                <ul class="slider">
+                    <li>
+                        <div id='dignity-portfolio-item91' class='hidden'>
                             <div class='row dignity-portfolio-item'>
-                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item92slider'  class='item_slider'>
+                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item91slider'  class='item_slider'>
                                         <ul class='slides'>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide3.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide1.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
-                                            <li><img src='http://designova.net/themes/wordpress/dignity/home_style_01/wp-content/uploads/2014/01/portfolio_slide2.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
+                                            <li><img src='images/h1.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
                                         </ul>
                                     </div></article>
                                 <article class='col-md-5 text-left'>
-                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >Project With Responsive Slider</div><div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div><div class='row ' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum lacinia. Vivamus viverra dictum leo, et iaculis leo imperdiet nec. Pellentesque et nulla et nisi lacinia mollis. Nunc risus eros, rutrum id faucibus et, rhoncus et nulla. Fusce commodo libero eu ipsum cursus vel vestibulum elit varius.</div><div class='row add-top-small' ><nav class='cl-effect-10 btn-dignity-animated'><a data-hover='Live Preview' href='#' class='' ><span>Visit Website</span></a></nav></div>
+                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >
+                                        人文之旅，深度風景
+                                    </div>
+                                    <div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div>
+                                    <div class='row ' >給城市的探險家，喜歡深度旅行的觀察者。鄰近誠品生活松菸店，位於松山文創園區的誠品行旅，會是你旅程的最好起點。經台北市政府指定為第99處市定古蹟，這裡是台北人的秘密後花園，也是東區最大片綠地。松山菸廠規劃時即引入「工業村」概念，保存日本初現代主義的建築風格，形式簡潔，特別訂製面磚、琉璃、銅釘等建材，做工精細，散步其中可以感受昔日盛景。巴洛克花園更是不可錯過，在時間的洪流沖刷中，總有些什麼被留存下來，適宜在陽光明亮的下午走一趟巡禮之旅。</div><div class='row add-top-small' >
+                                        <nav class='cl-effect-10 btn-dignity-animated'>
+                                            <a data-hover='Live Preview' href='#' class='' >
+                                                <span>Visit Website</span></a></nav>
+                                    </div>
                                 </article>
                             </div>
                         </div>
                     </li>
 
+                    <li>
+                        <div id='dignity-portfolio-item92' class='hidden'>
+                            <div class='row dignity-portfolio-item'>
+                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item92slider'  class='item_slider'>
+                                        <ul class='slides'>
+                                            <li><img src='images/h2.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
+                                        </ul>
+                                    </div></article>
+                                <article class='col-md-5 text-left'>
+                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >
+                                        藝術之旅，跨界展開
+                                    </div>
+                                    <div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div>
+                                    <div class='row ' >
+                                        緊鄰誠品松菸、電影院、表演廳、書店和文創商場，這是與全方位人文音樂廳最近的旅館，結合音樂、藝術、創意，與表演藝術親密互動。由普立茲克建築獎得主伊東豊雄團隊領軍設計，結合永田音響及佐佐木睦朗構造計画等多個劇場專業團隊建構而成，提供古典音樂的原聲傳遞，也適合跨界演出、大師班、論壇講座、各式研習營、記者發表會、貴賓專屬包場活動等多功能使用。鎖定表演時段，在此感受優質專業的藝術表演。松菸店內更有黑膠音樂館，為今昔建造橋梁，提供帶得走的聽覺體驗。
+                                    </div>
+                                    <div class='row add-top-small' >
+                                        <nav class='cl-effect-10 btn-dignity-animated'>
+                                            <a data-hover='Live Preview' href='#' class='' >
+                                                <span>Visit Website</span></a></nav>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div id='dignity-portfolio-item93' class='hidden'>
+                            <div class='row dignity-portfolio-item'>
+                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item93slider'  class='item_slider'>
+                                        <ul class='slides'>
+                                            <li><img src='images/h5.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
+                                        </ul>
+                                    </div></article>
+                                <article class='col-md-5 text-left'>
+                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >
+                                        自然之旅，生態甦醒
+                                    </div>
+                                    <div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div>
+                                    <div class='row ' >
+                                        品嚐自然，在清晨可以看見不同的光景，每個踏出的腳步都會是旅途的紀錄。在生態池畔散步，享受清晨獨有的安靜恬淡，前身是儲水備用的消防池，今日的生態池是昆蟲與鳥禽的城居天堂，保留瑠公圳蓄水池的人文意義，也為高密度的城市提供休憩水域。松山菸廠在戰後種植大量植栽，生物棲地相當多樣化，包括熱帶、亞熱帶、暖溫帶等植物，廠區內有水塘，近年來可見夜鷺、紅冠水雞、翠鳥、小白鷺、鯽魚、鯉魚、鯰魚等生物，是相當自然的綠意環境。
+                                    </div>
+                                    <div class='row add-top-small' >
+                                        <nav class='cl-effect-10 btn-dignity-animated'>
+                                            <a data-hover='Live Preview' href='#' class='' >
+                                                <span>Visit Website</span></a></nav>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div id='dignity-portfolio-item94' class='hidden'>
+                            <div class='row dignity-portfolio-item'>
+                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item94slider'  class='item_slider'>
+                                        <ul class='slides'>
+                                            <li><img src='images/h3.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
+                                        </ul>
+                                    </div></article>
+                                <article class='col-md-5 text-left'>
+                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >
+                                        創意之旅，薈萃精選
+                                    </div>
+                                    <div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div>
+                                    <div class='row ' >
+                                        在電影與戲劇之外，誠品生活松菸店集聚設計師概念店與工藝工作室，新型態的營運思維，連鎖不複製，實現建築載體的更多可能。不僅是書店，更關乎生活；不僅是生活，更創造生活的種種想像。扶植在地原創品牌，統合作為發聲的平台， 專業的創作工房，巧妙呈現玻璃工藝與陶瓷工藝之美。松山文創園區內的各式展覽，設計、藝術、戲劇、音樂，吸引城市內外的創意人才，在旅行中放進一些展覽，將為您留下此時此地的限定記憶。
+                                    </div>
+                                    <div class='row add-top-small' >
+                                        <nav class='cl-effect-10 btn-dignity-animated'>
+                                            <a data-hover='Live Preview' href='#' class='' >
+                                                <span>Visit Website</span></a></nav>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div id='dignity-portfolio-item95' class='hidden'>
+                            <div class='row dignity-portfolio-item'>
+                                <article class='col-md-7 text-center clearfix'><div id='dignity-portfolio-item95slider'  class='item_slider'>
+                                        <ul class='slides'>
+                                            <li><img src='images/h4.jpg' class='img-responsive' alt='dignissim enim nec' title='dignissim enim nec' /></li>
+                                        </ul>
+                                    </div></article>
+                                <article class='col-md-5 text-left'>
+                                    <div class='row light-txt medium-txt add-top-small add-bottom-small' >
+                                        修習之旅，趨勢提案
+                                    </div>
+                                    <div class='row border-bottom-light add-bottom-small pad-bottom-small' ><span class='wrap-txt highlight-bg white-txt' >HTML</span><span class='wrap-txt highlight-bg white-txt' >CSS3</span><span class='wrap-txt highlight-bg white-txt' >Web Designing</span></div>
+                                    <div class='row ' >
+                                        旅行的時間可以重新來過，每日的起始隨您調配。在這裡按下暫停，聆聽自己的節奏，重新找回生活的時間感。旅行的下午是悠長無盡的，宜茶宜咖啡，當然也適宜閱讀。等一杯咖啡，從豆子開始，等待它被慢慢磨礪，散發香氣，等待它被手沖或是萃取，在時間的提煉中，等待一杯咖啡的完成。這樣的下午適合遊歷，適合隨心所欲，可以延續早晨意猶未盡的漫步，可以探索城市的更多去處，開啟心靈的旅程。
+                                    </div>
+                                    <div class='row add-top-small' >
+                                        <nav class='cl-effect-10 btn-dignity-animated'>
+                                            <a data-hover='Live Preview' href='#' class='' >
+                                                <span>Visit Website</span></a></nav>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </li>
 
 
                 </ul>
@@ -660,13 +726,13 @@ include "header.php"
                                         </div>
                                         <div class="pull-left tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-university"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
                                                 <h3>優惠</h3>
                                             </div>
                                         </div>
                                         <div class="pull-left  tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-calendar"></i></a>
                                                 <h3>訂房</h3>
                                             </div>
                                         </div>
@@ -720,13 +786,13 @@ include "header.php"
                                         </div>
                                         <div class="pull-left tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-university"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
                                                 <h3 class="">優惠</h3>
                                             </div>
                                         </div>
                                         <div class="pull-left  tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-calendar"></i></a>
                                                 <h3 class="web-cht">訂房</h3>
                                             </div>
                                         </div>
@@ -779,13 +845,13 @@ include "header.php"
                                         </div>
                                         <div class="pull-left tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-university"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
                                                 <h3 >優惠</h3>
                                             </div>
                                         </div>
                                         <div class="pull-left  tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-calendar"></i></a>
                                                 <h3 >訂房</h3>
                                             </div>
                                         </div>
@@ -838,13 +904,13 @@ include "header.php"
                                         </div>
                                         <div class="pull-left tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-university"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
                                                 <h3 class="">優惠</h3>
                                             </div>
                                         </div>
                                         <div class="pull-left  tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-calendar"></i></a>
                                                 <h3 class="">訂房</h3>
                                             </div>
                                         </div>
@@ -900,13 +966,13 @@ include "header.php"
                                         </div>
                                         <div class="pull-left tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-university"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
                                                 <h3 class="">優惠</h3>
                                             </div>
                                         </div>
                                         <div class="pull-left  tc">
                                             <div class="item_outter">
-                                                <a href="#" class="item"><i class="fa fa-bullhorn"></i></a>
+                                                <a href="#" class="item"><i class="fa fa-calendar"></i></a>
                                                 <h3 class="">訂房</h3>
                                             </div>
                                         </div>
@@ -1071,8 +1137,7 @@ include "header.php"
                 </div>
                 <div class="btns">
                     <ul class="clear">
-                        <li><a href="#"><i class="fa fa-file-text-o"></i></a></li>
-                        <li><a href="#"><i class="fa fa-glass"></i></a></li>
+                        <li><a href="#"><i class="fa fa-download"></i></a></li>
                     </ul>
                 </div>
             </div>

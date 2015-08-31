@@ -103,6 +103,32 @@ include "header.php"
                 </div>
             </div>
         </div>
+
+
+<br/><br/>
+    <section class="container">
+        <div class="room_related">
+            <div id="wdr_owl-room" class="wdr_owl_carousel">
+                <div>
+                    <h3 >The Chapter</h3>
+                    <a href="#"><img src="images/onepage/rest1.jpg"></a>
+                    <a href="#" class="more ">了解更多</a>
+                </div>
+                <div>
+                    <h3 >The Lounge</h3>
+                    <a href="#"><img src="images/onepage/rest2.jpg"></a>
+                    <a href="#" class="more ">了解更多</a>
+                </div>
+                <div>
+                    <h3 >The Penthouse</h3>
+                    <a href="#"><img src="images/onepage/rest3.jpg"></a>
+                    <a href="#" class="more ">了解更多</a>
+                </div>
+
+            </div>
+        </div>
+    </section >
+
 </div>
 
 <?php

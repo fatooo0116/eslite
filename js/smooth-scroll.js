@@ -21,7 +21,17 @@
 
 
 
-            $('html,body').animate({scrollTop:$(this.hash).offset().top}, 1500); // Animate the scroll to this link's href value
+            $('html,body').animate({scrollTop:$(this.hash).offset().top}, 1500,function(){
+
+                if($("#sm").hasClass("menu-open")){
+                    $("#sm-trigger").trigger("click");
+                }
+
+            }); // Animate the scroll to this link's href value
+
+
+
+
         });
     });
 })(jQuery);

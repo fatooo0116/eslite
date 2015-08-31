@@ -49,7 +49,11 @@
                 <a href="#home_restaurant" class="scroll is_onepage" data-soffset="0">料理飲宴</a>
                 <a href="#" class="scroll is_onepage" data-soffset="0">優惠精選</a>
                 <a href="#" class="scroll is_onepage" data-soffset="0">迴響記憶</a>
-                <a href="#" class="scroll is_onepage" data-soffset="0">部落格</a>
+                <a href="#" class=" is_onepage" data-soffset="0">聯絡我們</a>
+                <a href="#" class=" is_onepage" data-soffset="0">交通資訊</a>
+                <a href="https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=3c3e466f383a426b34363e673c423a1d02d2d2d2c44704e2644j99" class=" is_onepage" data-soffset="0">人才招募</a>
+                <a href="#" class=" is_onepage" data-soffset="0">隱私權政策</a>
+                <a href="http://www.eslitecorp.com/index.aspx?a=tw&l=b" class=" is_onepage" data-soffset="0">誠品集團</a>
                 <!-- <a href="#" class="scroll is_onepage" data-soffset="0">Contact</a> -->
             </div>
         </div>

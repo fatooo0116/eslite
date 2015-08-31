@@ -27,7 +27,7 @@
       }
 
       h3{
-        line-height: 1.5em;
+        line-height: 1.2em;
       }
 
 
@@ -81,7 +81,7 @@
         }
         &.text-eng{
           font-size: 40px;
-          margin-bottom: 0px;
+          margin-bottom: 25px;
           span{
 
           }
@@ -667,13 +667,14 @@
       height:580px;
       width:100%;
         .wdr_bkimg{
-            background:url(../images/onepage/bk1.jpg) no-repeat center fixed;
-            background-size: cover;
+            background:url(../images/onepage/bk1.jpg) 50% 0 no-repeat fixed;
+            //background-size:
             height:580px;
             left:0;
             width:100%;
-            position: absolute;
-            background-size:cover;
+            overflow: hidden;
+            /* background-size:cover; */
+
         }
     }
 
